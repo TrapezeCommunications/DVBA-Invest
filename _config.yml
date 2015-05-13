@@ -1,0 +1,45 @@
+# Site settings
+title: Invest Downtown Victoria
+email: invest@downtownvictoria.ca
+description: > # this means to ignore newlines until "baseurl:"
+  Find out how to invest in Downtown Victoria and get more information about why it's the right business move.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://investinvictoria.com" # the base hostname & protocol for your site
+twitter_username: myDVBA
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+# We need to exclude some of the extra build tools used to create the site.
+exclude: ['readme.md', 'node_modules', 'node-modules', 'gulpfile.js', 'package.json', 'Gemfile', 'Gemfile.lock', 'CNAME', 'scsslint.yml']
+
+
+prose: 
+  siteurl: 'http://trapezecommunications.github.io/DVBA-Invest/'
+  media: 'files'
+  ignore:
+  - index.html
+  - package.json
+  - readme.md
+  - _config.yml
+  - /_layouts
+  - /_includes
+  - /_gulp
+  - /_src
+  - /assets
+  metadata: 
+    _posts:
+      - name: 'layout'
+        field:
+          element: 'hidden'
+          value: 'post'
+      - name: 'title'
+        field: 
+          element: 'text'
+          label: 'title'
+      - name: 'published'
+        field:
+          element: 'checkbox'
+          label: 'Published'
+          value: true
