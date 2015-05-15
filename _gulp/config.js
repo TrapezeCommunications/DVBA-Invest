@@ -72,12 +72,13 @@ module.exports = {
       bundleExec: true,
       sourcemap: true,
       loadPath: [ buildLibraries ],
-      require: ['sass-globbing', 'susy']
+      require: ['sass-globbing', 'susy', 'breakpoint']
     }
   },
   scsslint: {
     src: [
       sassSource + '/**/*.{sass,scss}',
+      '!' + sassSource + '/abstractions/*',
       '!' + sassSource + '/ignored.scss',
       ],
       options: {
@@ -137,17 +138,22 @@ module.exports = {
       jekyllSrc + '_layouts/*.html',
       jekyllSrc + '_locales/*.yml',
       jekyllSrc + '_plugins/*.rb',
+      jekyllSrc + 'page/**/*.{html,xml,md}',
       jekyllSrc + '_posts/*.{markdown,md}'
     ],
     sass:    sassSource + '/**/*.{sass,scss}',
     scripts: buildAssets + '/js/**/*.js',
-    images:  buildAssets + '/images/**/*',
+    images:  buildAssets + '/img/**/*',
     sprites: buildAssets + '/images/**/*.png',
     svg:     'vectors/*.svg'
   },
   images: {
-    src:  jekyllSrc + '/images/**/*',
-    dest: developmentAssets + '/images'
+    src:  buildAssets + '/img/**/*',
+    dest: jekyllAssets + '/img'
+  },
+  fonts: {
+    src:  buildAssets + '/fonts/**/*',
+    dest: jekyllAssets + '/fonts'
   },
   revision: {
     src: {

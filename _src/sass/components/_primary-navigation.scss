@@ -1,0 +1,61 @@
+.site-nav {
+
+  background-color: $white;
+  border-radius: 0.5em 0.5em 0 0;
+  font-family: sans-serif;
+  padding-top: 0.5em;
+  width: 100%; 
+
+  .menu {
+    background-color: rgba($white, 0.7);
+    left: 0; 
+    padding: 0 0 0.5em;
+    position: absolute;
+    right: 0;
+    top: 100px;
+   
+    a { 
+      color: inherit;
+      display: block;
+      font-size: 0.9em;
+      padding: 0.5em;
+      text-align: center;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+  }
+
+  .menu-icon {
+    display: block;
+    height: 100px;
+    line-height: 100px;
+    position: absolute;
+    right: 1em;
+    top: 0;
+    width: 36px;
+  }
+
+
+  //scss-lint:disable DeclarationOrder
+  @include breakpoint($medium) {
+
+    .menu-icon {
+      display: none; 
+    }
+
+    .menu {
+      display: flex; 
+      position: relative;
+      top: 0;
+        
+      a { 
+        display: inline-block;
+        flex: 1 1 auto;
+
+        &:not(:last-child) {
+          border-right: 2px solid $yellow; 
+        }
+      }
+    }
+  }
+}

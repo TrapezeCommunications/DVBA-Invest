@@ -2,22 +2,18 @@
 layout: default
 ---
 
-<div class="home">
+<aside class="jumbotron">
+  <h1>Do Business Here.</h1>
+  <p>Victoria is a world-renowned destination and downtown is the heart of it all.</p>
+</aside>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="section-nav">
+  <h1>Downtown is a Diverse and Vibrant Place to Do Business</h1>
+  
+  <a href="#" class="workforce">Downtown Workforce</a>
+  <a href="#" class="pedestrian">Pedestrian Counts</a>
+  <a href="#" class="residential">Residential Development</a>
+  <a href="#" class="visitor">Visitor Accommodation</a>
+  <a href="#" class="parking">Parking Information</a>
 
 </div>

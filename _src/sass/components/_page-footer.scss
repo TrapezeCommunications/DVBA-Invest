@@ -1,0 +1,21 @@
+footer {
+  text-align: center; 
+
+  div:nth-child(2) {
+    border-top: 3px solid $yellow;
+
+    @include breakpoint($small) {
+      text-align: left;
+    }
+  }
+
+  .logo-downtownvic { 
+    display: block;
+    margin: 0 auto;
+
+    @include breakpoint($small) {
+      float: right; 
+    }
+  }
+}
+

@@ -1,0 +1,14 @@
+main {
+  background-image: img-url("bg-cityscape.jpg");
+  background-position: center bottom;
+  background-repeat: repeat-x;
+  padding-bottom: 245px; 
+  text-align: center;
+  
+  .contained {
+    background: $white; 
+    padding: $vertpad $gridpad;
+  }
+
+}
+

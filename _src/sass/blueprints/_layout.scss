@@ -1,6 +1,13 @@
-$pagewidth: 80em;
+$pagewidth: 60em;
+$gridpad: 4em;
+$vertpad: 1em; 
+
+* {
+  box-sizing: border-box;
+}
 
 .contained {
-  max-width: $pagewidth;
   margin: 0 auto;
+  max-width: $pagewidth;
 }
+

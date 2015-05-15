@@ -10,7 +10,9 @@ gulp.task('build', function(callback) {
     'jekyll',
     'sass',
     'test',
-    'scripts'
+    'scripts',
+    'images',
+    'fonts'
   ], "delete-assets",
   callback);
 });

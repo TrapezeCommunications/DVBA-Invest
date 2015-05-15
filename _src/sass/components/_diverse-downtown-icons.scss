@@ -1,0 +1,49 @@
+.section-nav {
+  @include clearfix; 
+  font-family: "Franchise Bold";
+  line-height: 1;
+
+  a { 
+    display: inline-block; 
+    float: left; 
+    font-size: 1.6em;
+    padding: 1em;
+    text-decoration: none;
+    width: 20%;
+  }
+
+  a::before {
+    $iconsize: 100px;
+    background-color: currentColor;
+    border-radius: 50%;
+    content: "";
+    display: block;
+    height: $iconsize;
+    margin: 0 auto 1em;
+    width: $iconsize;
+  }
+
+  a:not(:last-child) {
+    border-right: 2px dotted $yellow; 
+  }
+
+  .workforce {
+    color: $orange;
+  }
+
+  .pedestrian {
+    color: $yellow;
+  }
+
+  .residential {
+    color: $purple;
+  }
+
+  .visitor {
+    color: $blue;
+  }
+
+  .parking {
+    color: $red;
+  }
+}

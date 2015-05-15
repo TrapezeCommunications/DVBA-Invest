@@ -1,0 +1,203 @@
+/*--------------------------------------------------
+	
+	# sass / abstractions / _mixins.scss
+
+	Common mixins, including a couple of troubleshooting helpers.
+
+	--------------------------------------------------*/
+
+//Used for testing.
+// * {
+// 	border: 2px dashed red;
+// 	background-color: rgba(255,0,0,0.05)
+// }
+
+
+
+/*----------------------------------------------------
+
+	A couple of useful mixins sourced from:
+	http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
+
+----------------------------------------------------*/
+// Set rem font size with px fallback.
+
+@function calculateRem($size) {
+  $remSize: $size / 16px;
+  @return $remSize * 1rem;
+}
+
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}
+
+/*----------------------------------------------------*/
+
+
+// Better than display:none (screen readers will still crawl over this)
+
+%visuallyhidden {
+  margin: -1px;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip: rect(0, 0, 0, 0);
+  position: absolute;
+}
+
+/*----------------------------------------------------*/
+
+// Centering Vertically and Horizontally.
+// Use @extend to group styles (if you don't also need to integrate other rules)
+// or @include if you need to pull these styles into other sections.
+
+%center-x {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+%center-y {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+%center-xy {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@mixin center-x {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+@mixin center-y {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+@mixin center-xy {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+/*----------------------------------------------------*/
+
+@mixin flush {
+  margin: 0; 
+  padding: 0; 
+}
+
+%flush {
+  margin: 0; 
+  padding: 0; 
+}
+
+@mixin square($size) {
+  width: $size;
+  height: $size;
+}
+
+
+/*----------------------------------------------------*/
+// Attach SVG Sprite
+@mixin attach-sprite($spritename) {
+    @extend .icon;
+    @extend .icon:before;
+    @extend .#{$spritename}:before;
+}
+
+@mixin attach-image($imagename)  {
+  background-image: image-url('svg/sprite/#{$imagename}.png');
+  background-image: image-url('svg/sprite/#{$imagename}.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@mixin replace-sprite($spritereplace, $spritesize) {
+  @include attach-image($spritereplace);
+  display: block;
+  content: "";
+  width: $spritesize;
+  height: $spritesize;
+
+}
+
+// Other things I thought about integrating (but haven't yet)...
+/*----------------------------------------------------*/
+// Add transform - function to add a particular transform on top of other transforms?
+
+
+/*----------------------------------------------------*/
+
+// If I use a lot of assets, would be good to set up a mixin to
+// pull in custom assets relative to the bower assets in the 
+// project "./libraries" folder.
+
+
+/*----------------------------------------------------*/
+@mixin svgandpng($filename) {
+  background-image: image-url('assets/png/#{$filename}.png');
+  background-image: image-url('assets/svg/#{$filename}.svg');  
+}
+
+/*----------------------------------------------------*/
+
+@function grey($percentage) {
+  $rgbvalue: 255 * $percentage; 
+  @return rgb($rgbvalue,$rgbvalue,$rgbvalue);
+}
+
+
+/*---------------------------------------------------------*/
+// Replacement for the compass image url function.
+
+@function img-url($filepath) {
+  $imagebasepath: "../img/";
+  $fullpath: $imagebasepath + $filepath;
+  
+  @return url($fullpath);
+}
+
+
+/*---------------------------------------------------------*/
+
+@import "breakpoint";
+
+
+@mixin pad-horizontally {
+  padding-left: $gridpad/2;
+  padding-right: $gridpad/2;
+  
+  // @include breakpoint($after-small) {
+  //   padding-left: $gridpad/2;
+  //   padding-right: $gridpad/2;
+  // }
+
+  @include breakpoint($after-medium) {
+    padding-left: $gridpad;
+    padding-right: $gridpad;
+  }
+}
+
+@mixin bleed-horizontally {
+  margin-left: -$gridpad/2;
+  margin-right: -$gridpad/2;
+  
+  // @include breakpoint($after-small) {
+  //   margin-left: -$gridpad/2;
+  //   margin-right: -$gridpad/2;
+  // }
+
+  @include breakpoint($after-medium) {
+    margin-left: -$gridpad;
+    margin-right: -$gridpad;
+  }
+}
+

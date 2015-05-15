@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Find out how to invest in Downtown Victoria and get more information about why it's the right business move.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://investinvictoria.com" # the base hostname & protocol for your site
+siteemail: kenkelly@downtownvictoria.ca
 twitter_username: myDVBA
 # github_username:  jekyll
 
@@ -43,3 +44,4 @@ prose:
           element: 'checkbox'
           label: 'Published'
           value: true
+          

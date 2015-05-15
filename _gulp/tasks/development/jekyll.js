@@ -2,6 +2,8 @@ var gulp        = require('gulp');
 var cp          = require('child_process');
 var browsersync = require('browser-sync');
 var config      = require('../../config').jekyll.development;
+var runSequence = require('run-sequence');
+
 
 /**
  * Build the Jekyll Site
@@ -13,6 +15,8 @@ gulp.task('jekyll', function(done) {
   .on('close', done);
 });
 
-gulp.task('jekyll-rebuild', ['jekyll'], function() {
+gulp.task('jekyll-rebuild', ['jekyll'], function(callback) {
   browsersync.reload();
+  runSequence("delete-assets",callback);
 });
+

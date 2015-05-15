@@ -1,0 +1,35 @@
+.jumbotron {
+  background-color: $yellow; 
+  background-image: img-url("bg-texture.png");
+  margin: 0 (-1 * $gridpad);
+  padding: 1em;
+  text-align: center; 
+
+
+  @include breakpoint($large) {
+    border-radius: 0.5em;
+    margin: 0 (-0.875 * $gridpad);
+    padding: ($vertpad * 2) ($gridpad * 2); 
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 { 
+    color: $white; 
+    margin: 0;
+  }
+
+  h1::before {
+    content: img-url("svg/location-icon.svg");
+    display: block;
+    height: 100px;
+    margin: 0 auto;
+    padding-bottom: 0.5em;
+    width: 100px;
+  }
+
+  p {
+    font-size: 1.45em;
+  }
+}
