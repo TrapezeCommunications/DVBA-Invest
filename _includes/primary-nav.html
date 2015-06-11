@@ -1,4 +1,5 @@
 <nav class="site-nav">
+
   <a href="#" class="menu-icon">
   <h1>Navigation</h1>
     <svg viewBox="0 0 18 15">
@@ -8,17 +9,29 @@
     </svg>
   </a>
 
-  <div class="menu">
-<!--     {% for page in site.pages %}
-      {% if page.title %}
-      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      {% endif %}
-    {% endfor %} -->
+  <ul class="menu">
+    <li><a href="/our-downtown/">Our Downtown</a></li>
+    <li>More Details
+      <ul>
+        <li><a href="/downtown-details/downtown-workforce/">Downtown Workforce</a></li>
+        <li><a href="/downtown-details/pedestrian-counts/">Pedestrian Counts</a></li>
+        <li><a href="/downtown-details/block-by-block/">Block by Block</a></li>
+        <li><a href="/downtown-details/residential-development/">Residential Development</a></li>
+        <li><a href="/downtown-details/visitor-accommodation/">Visitor Accommodation</a></li>
+        <li><a href="/downtown-details/parking-information/">Parking Information</a></li>
+        <li><a href="/downtown-details/bus-stop-activity/">Bus Stop Activity</a></li>
+        <li><a href="/downtown-details/harbour-traffic/">Harbour Traffic</a></li>
+      </ul>
+    </li>
+    <li>Investment Opportunities
+      <ul>
+        <li><a href="/investment-opportunities/retail-spaces-of-interest/">Retail Spaces of Interest</a></li>
+        <li><a href="/investment-opportunities/dvba-support-programs/">DVBA Support Programs</a></li>
+        <li><a href="/investment-opportunities/space-list/">Space List</a></li>
+      </ul>
+    </li>
+    <li><a href="/blog">News</a></li>
+    <li><a href="/contact/">Contact</a></li>
+  </ul>
 
-    <a href="#">Our Downtown</a>
-    <a href="#">Downtown Details</a>
-    <a href="#">Investment Opportunities</a>
-    <a href="/blog">News</a>
-    <a href="#">Contact</a>
-  </div>
 </nav>

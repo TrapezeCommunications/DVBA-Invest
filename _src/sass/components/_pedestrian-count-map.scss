@@ -1,0 +1,80 @@
+/*=========================================================*
+ The Pedestrian Counter Page
+ 
+ We set up a display with dots across a map. Took a little more styling
+ than normal to get this one set up...
+ *--------------------------------------------------------*/
+
+
+.pedestrian-count-wrap {
+  margin: 0 auto;
+  max-width: 612px;
+}
+
+.pedestrian-count-map {
+  background: {
+    image: img-url("dvba-pedestrian-map.gif");
+    position: center;
+    size: cover;
+  }
+  display: block;
+  height: 0;
+  margin: 0 auto;
+  max-width: 612px;
+  padding-bottom: 129%;
+  position: relative;
+  width: 100%;
+  
+  a {
+    border: 1px dashed $white;
+    border-radius: 50%;
+    color: $white;
+    display: inline-block;
+    font-size: 0.7em;
+    height: 3.7%;
+    position: absolute;
+    text-decoration: none;
+    width: 4.3%;
+  }
+}
+
+// Position each of the dots over the pedestrian map:
+.yates700 {
+  left: 76%;
+  top: 45%;
+}
+
+.fort700 {
+  left: 76%;
+  top: 52%;
+}
+
+.douglas1300 {
+  left: 68%;
+  top: 40%;
+}
+
+.johnson600 {
+  left: 50%;
+  top: 32%;
+}
+
+.blanchard1100 {
+  left: 81.7%;
+  top: 53%;
+}
+
+.govt1100 {
+  left: 53.7%;
+  top: 47%;
+}
+
+.govt900 {
+  left: 55.5%;
+  top: 57.7%;
+}
+
+.douglas1100 {
+  left: 66.4%;
+  top: 54%;
+}

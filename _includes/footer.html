@@ -2,6 +2,13 @@
   <div>
     <div class="contained">
       <h1>News</h1>
+      
+      {% assign post = site.posts.first %}
+      {% assign content = post.content %}
+
+      {{ post.content }}
+
+
       <h2>News headline goes here</h2>
       <p class="date">January 15, 2015</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut modo consequat... <a href="#">Read more »</a></p>

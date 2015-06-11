@@ -29,10 +29,11 @@ This theme was developed using the Jekyll static site builder, and utilizing Gul
 
 ## Some misc development notes (to be removed)
 
-`_assets` folder compiles into the "resources" folder which becomes a part of the finalized site.
-`files` is specifically for page files and downloads.
+The `_src` folder compiles into the `assets` folder which becomes a part of the finished site. If you make changes to theme assets, make sure it's done in `_src` first, then run `gulp build` to have the assets compiled properly.
 
+`files` is specifically for page files (images) and downloads (pdfs).
 
+## Workflow 
 Workflow Requirements - things I'd like integrated in the build (to consider). Working with Gulp for compilation, so most of these are integrated via the appropriate gulp tasks.
 
 Styles:

@@ -138,7 +138,7 @@ module.exports = {
       jekyllSrc + '_layouts/*.html',
       jekyllSrc + '_locales/*.yml',
       jekyllSrc + '_plugins/*.rb',
-      jekyllSrc + 'page/**/*.{html,xml,md}',
+      jekyllSrc + 'pages/**/*.{html,xml,md}',
       jekyllSrc + '_posts/*.{markdown,md}'
     ],
     sass:    sassSource + '/**/*.{sass,scss}',

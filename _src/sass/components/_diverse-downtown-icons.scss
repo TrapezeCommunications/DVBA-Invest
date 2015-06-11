@@ -13,9 +13,10 @@
   }
 
   a::before {
-    $iconsize: 100px;
-    background-color: currentColor;
-    border-radius: 50%;
+    $iconsize: 36px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
     content: "";
     display: block;
     height: $iconsize;
@@ -29,21 +30,41 @@
 
   .workforce {
     color: $orange;
+    
+    &::before {
+      background-image: img-url("svg/workforce-icon.svg");
+    }
   }
 
   .pedestrian {
     color: $yellow;
+
+    &::before {
+      background-image: img-url("svg/pedestrian-icon.svg");
+    }
   }
 
   .residential {
     color: $purple;
+
+    &::before {
+      background-image: img-url("svg/residential-icon.svg");
+    }
   }
 
   .visitor {
     color: $blue;
+
+    &::before {
+      background-image: img-url("svg/visitor-icon.svg");
+    }
   }
 
   .parking {
     color: $red;
+
+    &::before {
+      background-image: img-url("svg/parking-icon.svg");
+    }
   }
 }

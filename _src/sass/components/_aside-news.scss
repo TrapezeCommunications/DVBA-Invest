@@ -13,22 +13,21 @@
   }
 
   h1 {
-    font-size: 2.25em;
     background-color: $white; 
+    border-radius: 0 0 0.25em 0.25em;
     color: $lt-blue;
-    text-align: center; 
-    width: 33%;
+    font-size: 2.25em;
     margin: 0 auto;
     padding: 0.25em;
-    border-radius: 0 0 0.25em 0.25em;
-
+    text-align: center; 
+    width: 33%;
   }
 
   h2 {
     color: $white; 
     font-family: "Bitter";
+    font-size: 2.4em;
     font-weight: 300;
     text-transform: initial;
-    font-size: 2.4em;
   }
 }

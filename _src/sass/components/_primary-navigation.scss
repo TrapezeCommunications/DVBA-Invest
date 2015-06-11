@@ -1,54 +1,17 @@
 .site-nav {
 
-  background-color: $white;
-  border-radius: 0.5em 0.5em 0 0;
-  font-family: sans-serif;
-  padding-top: 0.5em;
-  width: 100%; 
-
-  .menu {
-    background-color: rgba($white, 0.7);
-    left: 0; 
-    padding: 0 0 0.5em;
-    position: absolute;
-    right: 0;
-    top: 100px;
-   
-    a { 
-      color: inherit;
-      display: block;
-      font-size: 0.9em;
-      padding: 0.5em;
-      text-align: center;
-      text-decoration: none;
-      text-transform: uppercase;
-    }
-  }
-
-  .menu-icon {
-    display: block;
-    height: 100px;
-    line-height: 100px;
-    position: absolute;
-    right: 1em;
-    top: 0;
-    width: 36px;
-  }
-
 
   //scss-lint:disable DeclarationOrder
   @include breakpoint($medium) {
 
-    .menu-icon {
-      display: none; 
-    }
+
 
     .menu {
       display: flex; 
       position: relative;
       top: 0;
         
-      a { 
+      > li { 
         display: inline-block;
         flex: 1 1 auto;
 
@@ -59,3 +22,147 @@
     }
   }
 }
+
+
+/*---------------------------------------------------------*/
+// Primary Navigation Structure - Mobile First
+
+.site-nav {
+  background-color: $white;
+  border-radius: 0.5em 0.5em 0 0;
+  font-family: sans-serif;
+  font-size: 0.9em;
+  line-height: 1.25;
+  padding-top: 0.5em;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%; 
+
+  .menu-icon {
+    display: block;
+    height: 100px;
+    line-height: 100px;
+    position: absolute;
+    right: 1em;
+    top: 0;
+    width: 45px;
+  }
+
+  h1 { display: none; }
+
+  ul { 
+    margin: 0; 
+    padding: 0;
+  }
+  li { 
+    position: relative;
+    padding: 1em 0.5em;
+    cursor: pointer;
+  }
+
+  a {
+    color: inherit;
+    padding: 0.5em;
+    text-align: center;
+    text-decoration: none;
+
+  }
+  
+  .menu { display: none; }
+
+  .menu {
+    display: none;
+    background-color: rgba($white, 0.9);
+    left: 0; 
+    padding: 0 0 0.5em;
+    position: absolute;
+    right: 0;
+    top: 100px;
+
+    ul {
+      display: none;
+    }
+  }
+
+  .activated {
+    ul,li {
+      display: block;
+      position: relative;
+    }
+    li {}
+  }
+
+  @include breakpoint(max-width $medium) {
+    &.activated .menu { display: block; }
+  }
+
+  /*---------------------------------------------------------*/
+  // Larger Screens
+
+  @include breakpoint($medium) {
+    .menu {
+      position: relative;
+      top: 0;
+      display: flex;
+
+      ul {
+        position: absolute;
+        background-color: $white;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        overflow: hidden;
+        box-shadow: 0px 10px 13px rgba($black, 0.3);
+      }
+    }
+
+    .menu-icon {
+      display: none; 
+    }
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
