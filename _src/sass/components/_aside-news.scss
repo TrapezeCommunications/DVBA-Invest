@@ -9,7 +9,14 @@
     background-image: img-url("bg-texture.png");
     border-bottom: 5px solid $white;
     border-top: 5px solid $white;
-    padding: 0 $gridpad $gridpad;
+    padding: 0 $gridpad/4 $gridpad;
+    
+    @include breakpoint($medium) {
+      padding: 0 $gridpad/2 $gridpad;
+    }
+    @include breakpoint($large) {
+      padding: 0 $gridpad $gridpad;
+    }
   }
 
   h1 {

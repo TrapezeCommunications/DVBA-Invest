@@ -3,17 +3,18 @@
     <div class="contained">
       <h1>News</h1>
       
-      {% assign post = site.posts.first %}
-      {% assign content = post.content %}
+      <div class="main-gallery js-flickity" data-flickity-options='{ "cellAlign": "center", "wrapAround": true, "prevNextButtons": false }'>
+      {% for post in site.posts limit:3 %}
+        <div class="news-post">
+          <h2>{{ post.title }}</h2>
+          <p class="date">{{ post.date | date: "%B %-d, %Y" }}</p>
+          <p>{{ post.content | strip_html | strip_newlines | truncatewords:80 }} <a href="{{ post.url }}">Read more »</a></p>
+        </div>
+      {% endfor %}
+      </div>
 
-      {{ post.content }}
+      <a class="button" href="/blog">See More</a>
 
-
-      <h2>News headline goes here</h2>
-      <p class="date">January 15, 2015</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut modo consequat... <a href="#">Read more »</a></p>
-
-      <a class="button" href="#">See More</a>
     </div>
   </div>
 </aside>

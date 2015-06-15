@@ -6,7 +6,7 @@ permalink: /investment-opportunities/dvba-support-programs/
 
 As a business improvement association, the DVBA is working hard to create a positive environment for residents and visitors to enjoy every moment they are downtown and for investors to find our downtown as irresistible as do our visitors.  
 
-A number of programs have been created which we believe reinforces the appeal of our downtown (please add graphics where possible).
+A number of programs have been created which we believe reinforces the appeal of our downtown.
 
 ## ILLUMINATE Downtown
 
@@ -34,9 +34,7 @@ Recycling.  reCYCLISTS also pick up a full range of recycling and harder-to-recy
 
 To register for compost pick up or to arrange for recycling pickup, call the reCYCLISTS at 250-386-2111 for more information or visit www.refuse.ca.
 
-<span class="needs-review"><del>Please insert fee schedule which is on our website under the reCYCLISTS.</del>Updated styles...</span>
-
-<table class="green"><thead><tr><th colspan="2" scope="col">
+<table><thead><tr><th colspan="2" scope="col">
 <h3>
                     Pricing</h3>
 </th>

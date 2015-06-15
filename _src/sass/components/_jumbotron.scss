@@ -1,14 +1,22 @@
 .jumbotron {
   background-color: $yellow; 
   background-image: img-url("bg-texture.png");
-  margin: 0 (-1 * $gridpad);
+  margin: 0 (-1 * $gridpad/4);
+  
+  @include breakpoint($medium) {
+    margin: 0 (-1 * $gridpad/2);
+  }
+  @include breakpoint($large) {
+    margin: 0 (-1 * $gridpad);
+  }
+
   padding: 1em;
   text-align: center; 
 
 
   @include breakpoint($large) {
     border-radius: 0.5em;
-    margin: 0 (-0.875 * $gridpad);
+    margin: -1em (-0.875 * $gridpad) 0;
     padding: ($vertpad * 2) ($gridpad * 2); 
   }
 

@@ -53,14 +53,26 @@ h6 {
   color: $lt-blue;
   font-family: "franchiseregular";
   text-transform: uppercase;
-  // margin: 0;
+  text-align: center;
 }
 
 h1 { 
-  font-size: 3.8em; 
+  font-size: 3.8rem; 
   line-height: 0.8;
 }
 
+h2 {
+  font-size: 2.8rem; 
+  line-height: 0.8;
+}
+
+h3, 
+h4, 
+h5, 
+h6 {
+  font-size: 1.8rem; 
+  line-height: 0.8;
+}
 
 .needs-review {
   background-color: rgba($yellow, 0.7);

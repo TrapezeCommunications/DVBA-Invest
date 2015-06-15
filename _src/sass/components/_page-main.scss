@@ -7,7 +7,15 @@ main {
   
   .contained {
     background: $white; 
-    padding: $vertpad $gridpad;
+    padding: $vertpad $gridpad/4;
+
+    @include breakpoint($medium) {
+      padding: $vertpad $gridpad/2;
+    }
+
+    @include breakpoint($large) {
+      padding: $vertpad $gridpad;
+    }
   }
 
 }

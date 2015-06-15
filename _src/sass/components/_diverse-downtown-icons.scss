@@ -4,29 +4,26 @@
   line-height: 1;
 
   a { 
-    display: inline-block; 
-    float: left; 
-    font-size: 1.6em;
-    padding: 1em;
-    text-decoration: none;
-    width: 20%;
+    text-decoration: none;  
+    display: block;
+    line-height: 62px; 
   }
 
   a::before {
     $iconsize: 36px;
+    height: $iconsize;
+    width: $iconsize;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
     content: "";
-    display: block;
-    height: $iconsize;
-    margin: 0 auto 1em;
-    width: $iconsize;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 1em;
+
   }
 
-  a:not(:last-child) {
-    border-right: 2px dotted $yellow; 
-  }
+
 
   .workforce {
     color: $orange;
@@ -67,4 +64,29 @@
       background-image: img-url("svg/parking-icon.svg");
     }
   }
+
+  @include breakpoint($medium) {
+    a { 
+      line-height: 1;
+      display: inline-block; 
+      float: left; 
+      font-size: 1.6em;
+      padding: 1em;
+      width: 20%;
+
+      &:not(:last-child) {
+        border-right: 2px dotted $yellow; 
+      }
+
+      &::before {
+        $iconsize: 100px;
+        margin: 0 auto 1em;
+        height: $iconsize;
+        width: $iconsize;
+        display: block;
+      }
+    }
+  }
+
 }
+

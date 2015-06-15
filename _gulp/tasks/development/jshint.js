@@ -14,5 +14,4 @@ gulp.task('jshint', function() {
     .pipe(jshint())
     .pipe(jshint.reporter(stylish));
 
-  console.log("after hints!"); // but I see nothing after?
 });
