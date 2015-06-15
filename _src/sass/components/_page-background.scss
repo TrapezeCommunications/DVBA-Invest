@@ -1,5 +1,10 @@
 body {
-  background-image: img-url("city-bg-large.jpg");
-  background-position: center top;
-  background-repeat: no-repeat;
+  background: {
+    image: img-url("city-bg-sm.jpg");
+    position: center top;
+    repeat: no-repeat;
+    size: contain;
+  }
+  @include breakpoint(1000px) { background-image: img-url("city-bg-med.jpg"); }
+  @include breakpoint(1600px) { background-image: img-url("city-bg-large.jpg"); }
 }

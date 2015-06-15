@@ -118,14 +118,19 @@ module.exports = {
     extensions: ['.coffee', '.hbs'],
     // A separate bundle will be generated for each
     // bundle config in the list below
+    // bundleConfigs: [{
+    //   entries:    buildAssets + '/js/application.js',
+    //   dest:       jekyllAssets + '/js',
+    //   outputName: 'application.js'
+    // }, {
+    //   entries:    buildAssets + '/js/head.js',
+    //   dest:       jekyllAssets + '/js',
+    //   outputName: 'head.js'
+    // }]
     bundleConfigs: [{
       entries:    buildAssets + '/js/application.js',
       dest:       jekyllAssets + '/js',
       outputName: 'application.js'
-    }, {
-      entries:    buildAssets + '/js/head.js',
-      dest:       jekyllAssets + '/js',
-      outputName: 'head.js'
     }]
   },
   watch: {

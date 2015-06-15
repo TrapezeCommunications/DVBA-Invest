@@ -141,9 +141,9 @@ http://flickity.metafizzy.co
   opacity: 1;
 }
 
-// scss-lint:enable all 
 
 /*---------------------------------------------------------*/
+// Theme specific overrides...
 
 .news-post {
   width: 100%;
@@ -163,3 +163,5 @@ http://flickity.metafizzy.co
     color: $yellow;
   }
 }
+
+// scss-lint:enable all 

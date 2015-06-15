@@ -1,31 +1,11 @@
-#primary-nav {
-
-
-  //scss-lint:disable DeclarationOrder
-  @include breakpoint($medium) {
-
-
-
-    .menu {
-      display: flex; 
-      position: relative;
-      top: 0;
-        
-      > li { 
-        display: inline-block;
-        flex: 1 1 auto;
-
-        &:not(:last-child) {
-          border-right: 2px solid $yellow; 
-        }
-      }
-    }
-  }
-}
-
-
 /*---------------------------------------------------------*/
 // Primary Navigation Structure - Mobile First
+
+//scss-lint:disable SelectorDepth, IdSelector
+// I used an ID to simplify coding the menu with only javascript (easier to act on)
+// and the selector depth is necessary as is... 
+
+// but hey, if you want to optimize this...
 
 #primary-nav {
   background-color: $white;
@@ -55,10 +35,11 @@
     margin: 0; 
     padding: 0;
   }
+
   li { 
-    position: relative;
-    padding: 1em 0.5em;
     cursor: pointer;
+    padding: 1em 0.5em;
+    position: relative;
   }
 
   a {
@@ -66,14 +47,11 @@
     padding: 0.5em;
     text-align: center;
     text-decoration: none;
-
   }
-  
-  .menu { display: none; }
 
   .menu {
-    display: none;
     background-color: rgba($white, 0.9);
+    display: none;
     left: 0; 
     padding: 0 0 0.5em;
     position: absolute;
@@ -82,16 +60,30 @@
     z-index: 1;
 
     ul {
-      display: none;
+      display: none; 
+
+      a {
+        border-bottom: 2px dotted $yellow;
+        display: block;
+        padding: 0 0 1em;
+      }
+
+      li {
+        padding: 1em 1em 0;
+      }
+
+      li:last-child a {
+        border-bottom: 0;
+      }
     }
   }
 
   .activated {
-    ul,li {
+    ul,
+    li {
       display: block;
       position: relative;
     }
-    li {}
   }
 
   @include breakpoint(max-width $medium) {
@@ -102,20 +94,29 @@
   // Larger Screens
 
   @include breakpoint($medium) {
+
     .menu {
+      display: flex;
       position: relative;
       top: 0;
-      display: flex;
 
       ul {
-        position: absolute;
         background-color: $white;
-        position: absolute;
-        top: 100%;
+        box-shadow: 0 10px 13px rgba($black, 0.3);
         left: 0;
-        right: 0;
         overflow: hidden;
-        box-shadow: 0px 10px 13px rgba($black, 0.3);
+        position: absolute;
+        right: 0;
+        top: 100%;
+      }
+
+      > li { 
+        display: inline-block;
+        flex: 1 1 auto;
+
+        &:not(:last-child) {
+          border-right: 2px solid $yellow; 
+        }
       }
     }
 
@@ -125,45 +126,6 @@
   }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
