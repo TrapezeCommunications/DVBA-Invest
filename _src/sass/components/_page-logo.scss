@@ -1,12 +1,8 @@
 .logo-invest {
-  background: {
-    image: img-url("logo.png");
-    position: center top;
-    repeat: no-repeat;
-    size: contain; 
-  }
+  margin: -19% auto 0.3em;
+  max-width: 100%;
   display: block;
-  height: 411px;
-  margin: -100px auto 0.3em;
-  text-indent: -9999px;
+  @include breakpoint($small) {
+   margin: -90px auto 0.3em;
+  }
 }

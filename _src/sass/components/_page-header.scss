@@ -1,5 +1,7 @@
 .site-header {
-  border-top: 100px solid rgba($white, 0.48);
+  @include breakpoint($medium) {
+    padding: 0 $gridpad/4;
+  }
 
   h1 {
     margin: 0; 

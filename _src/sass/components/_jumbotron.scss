@@ -2,17 +2,22 @@
   background-color: $yellow; 
   background-image: img-url("bg-texture.png");
   margin: -1em (-1 * $gridpad/4);
-  padding: 1em;
-  text-align: center; 
+  padding: $gridpad/2;
+  text-align: center;
+  border-top: 15px solid #fff;
   
   @include breakpoint($medium) {
+    border-top: none;
+    border-left: 15px solid #fff;
+    border-right: 15px solid #fff;
     margin: -1em (-1 * $gridpad/2);
+    @include border-radius(0 0 10px 10px);
   }
 
   @include breakpoint($large) {
-    border-radius: 0.5em;
-    margin: -1em (-0.875 * $gridpad) 0;
+    margin: -1em (-1 * $gridpad) 0;
     padding: ($vertpad * 2) ($gridpad * 2); 
+    @include border-radius(10px);
   }
 
   h1,
@@ -24,7 +29,10 @@
   }
   
   h1 {
-    font-size: 6em;
+    font-size: 4em;
+    @include breakpoint($large) {
+      font-size: 6em;
+    }
   }
 
   h1::before {
@@ -40,5 +48,6 @@
     font-size: 1.45em;
     max-width: 700px;
     margin: 1em auto;
+    color: lighten($black,15%);
   }
 }

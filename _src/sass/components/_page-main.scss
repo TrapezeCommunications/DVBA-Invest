@@ -4,6 +4,10 @@ main {
   background-repeat: repeat-x;
   padding-bottom: 245px; 
   text-align: center;
+
+  @include breakpoint($medium) {
+    padding: 0 $gridpad/4 245px;
+  }
   
   .contained {
     background: $white; 

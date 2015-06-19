@@ -16,7 +16,6 @@
   line-height: 1.25;
   text-align: center;
   text-transform: uppercase;
-  width: 100%; 
   z-index: 1;
   @include border-radius(0.5em 0.5em 0 0);
 
@@ -26,7 +25,7 @@
     line-height: 100px;
     position: absolute;
     right: 1em;
-    top: 0;
+    top: -20px;
     width: 45px;
   }
 
@@ -135,6 +134,7 @@
         right: 0;
         top: 100%;
         background: #fff;
+        min-width: 13em;
         @include border-radius(0 0 0.5em 0.5em);
       }
 
