@@ -3,8 +3,9 @@
   
   img {
     max-width: 321px;
-    width: 48%;
     padding: 1em 0 0.5em $gridpad/4;
+    width: 48%;
+    
     @include breakpoint($medium) {
       padding: 1em 0 0.5em $gridpad/2;
     }

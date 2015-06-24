@@ -4,11 +4,13 @@ body {
     position: center top;
     repeat: no-repeat;
   }
+  
   @include breakpoint($medium) {
     background: {
       size: contain;
     }    
   }
+  
   @include breakpoint(1000px) { background-image: img-url("city-bg-med.jpg"); }
   @include breakpoint(1600px) { background-image: img-url("city-bg-large.jpg"); }
 }

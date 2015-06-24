@@ -1,8 +1,9 @@
 .logo-invest {
+  display: block;
   margin: -19% auto 0.3em;
   max-width: 100%;
-  display: block;
+  
   @include breakpoint($small) {
-   margin: -90px auto 0.3em;
+    margin: -90px auto 0.3em;
   }
 }

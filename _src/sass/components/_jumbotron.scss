@@ -1,23 +1,20 @@
 .jumbotron {
   background-color: $yellow; 
   background-image: img-url("bg-texture.png");
+  border-top: 15px solid $white;
   margin: -1em (-1 * $gridpad/4);
   padding: $gridpad/2;
   text-align: center;
-  border-top: 15px solid #fff;
   
   @include breakpoint($medium) {
-    border-top: none;
-    border-left: 15px solid #fff;
-    border-right: 15px solid #fff;
-    margin: -1em (-1 * $gridpad/2);
-    @include border-radius(0 0 10px 10px);
+    @include border-radius(10px);
+    border-top: 0;
   }
 
   @include breakpoint($large) {
-    margin: -1em (-1 * $gridpad) 0;
-    padding: ($vertpad * 2) ($gridpad * 2); 
     @include border-radius(10px);
+    margin: -1em -3em 0;
+    padding: ($vertpad * 2) ($gridpad * 2); 
   }
 
   h1,
@@ -30,6 +27,7 @@
   
   h1 {
     font-size: 4em;
+    
     @include breakpoint($large) {
       font-size: 6em;
     }
@@ -45,9 +43,10 @@
   }
 
   p {
+    color: lighten($black, 15%);
     font-size: 1.45em;
-    max-width: 700px;
+    line-height: 1.5;
     margin: 1em auto;
-    color: lighten($black,15%);
+    max-width: 700px;
   }
 }
