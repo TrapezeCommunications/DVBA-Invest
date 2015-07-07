@@ -19,11 +19,12 @@
   text-transform: uppercase;
   z-index: 1;
 
-  @include breakpoint(max-width $medium) {
+  @include breakpoint(max-width $medium) {    
     &.activated .menu { display: block; }
   }
 
   .menu-icon {
+    color: $white;
     display: block;
     height: 100px;
     line-height: 100px;
@@ -31,6 +32,10 @@
     right: 1em;
     top: -20px;
     width: 45px;
+    
+    path:hover {
+      color: $yellow;
+    }
   }
 
   h1 { display: none; }
@@ -42,8 +47,13 @@
 
   li { 
     cursor: pointer;
-    padding: 1.5em 0.5em;
+    list-style: none;
     position: relative;
+    padding: 0.5em;
+
+    @include breakpoint($medium) {
+      padding: 1.5em 0.5em;
+    }
   }
   
   li,
@@ -70,6 +80,7 @@
     right: 0;
     top: 3.5em;
     z-index: 1;
+    padding: 1em 0;
     
     @include breakpoint(450px) {
       top: 4em;
@@ -81,6 +92,11 @@
     
     @include breakpoint(675px) {
       top: 5em;
+    }
+    
+    @include breakpoint($medium) {
+      background: none;
+      padding: 0;
     }
 
     ul {
@@ -95,7 +111,6 @@
       li {
         padding: 1em 1em 0;
         text-transform: none;
-        list-style: none;
       }
 
       li:last-child a {

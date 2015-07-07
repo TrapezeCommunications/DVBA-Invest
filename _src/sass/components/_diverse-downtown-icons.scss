@@ -96,7 +96,7 @@
   }
 
   .pedestrian {
-    color: $yellow;
+    color: $red;
 
     &::before {
       background-image: img-url("svg/pedestrian-icon.svg");
@@ -112,7 +112,7 @@
   }
 
   .visitor {
-    color: $blue;
+    color: $green;
 
     &::before {
       background-image: img-url("svg/visitor-icon.svg");
@@ -120,7 +120,7 @@
   }
 
   .parking {
-    color: $red;
+    color: $yellow;
 
     &::before {
       background-image: img-url("svg/parking-icon.svg");
