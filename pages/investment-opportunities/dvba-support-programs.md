@@ -34,85 +34,91 @@ Recycling.  reCYCLISTS also pick up a full range of recycling and harder-to-recy
 
 To register for compost pick up or to arrange for recycling pickup, call the reCYCLISTS at 250-386-2111 for more information or visit www.refuse.ca.
 
-<table><thead><tr><th colspan="2" scope="col">
-<h3>
-                    Pricing</h3>
-</th>
-</tr></thead><tbody><tr><td>
-                Weekly pickup of one (1) 48L green bin</td>
-<td>
-                $40/month</td>
-</tr><tr><td>
-                Twice Weekly pickup of one (1) 48L green bin</td>
-<td>
-                $70/month</td>
-</tr><tr><td>
-                Every 2 week pickup of one (1) 48L green bin</td>
-<td>
-                $25/month</td>
-</tr><tr><td>
-                Once every 4 week pickup of one (1) 48L green bin</td>
-<td>
-                $15/month</td>
-</tr><tr><td>
-                'Call-in' pickup - 1-48L green bin</td>
-<td>
-                $10 each</td>
-</tr><tr><td>
-                Styrofoam</td>
-<td>
-                $6/bag (35" x 50" or equivalent)</td>
-</tr><tr><td>
-                Soft Plastics</td>
-<td>
-                $6/bag (35" x 50" or equivalent)</td>
-</tr><tr><td>
-                Combination of Styrofoam &amp; Soft Plastics</td>
-<td>
-                $20/4 bags (35" x 50" or equivalent)</td>
-</tr><tr><td>
-                Cardboard &amp; Mixed Paper</td>
-<td>
-                $6/bag (35" x 50" or equivalent)</td>
-</tr><tr><td>
-                Foil-Lined Packaging</td>
-<td>
-                $6/bag (35" x 50" or equivalent)</td>
-</tr><tr><td>
-                Gable-top Milk Cartons</td>
-<td>
-                $6/bag (35" x 50" or equivalent)</td>
-</tr><tr><td>
-                Tetra-Packs</td>
-<td>
-                $6/bag (35" x 50" or equivalent)</td>
-</tr><tr><td>
-                Glass/Metal/Hard Plastics</td>
-<td>
-                $0.10/kg (Must be in bag or bucket)</td>
-</tr><tr><td>
-                Light Bulbs: CFL Tubes</td>
-<td>
-                $0.75 each</td>
-</tr><tr><td>
-                Light Bulbs: Fluorescent Tubes</td>
-<td>
-                $0.15/linear foot</td>
-</tr><tr><td>
-                Bicycle Tires</td>
-<td>
-                $0.75/tire (includes one tube per tire)</td>
-</tr><tr><td>
-                E-Waste/Small Appliances</td>
-<td>
-                $2.50/item</td>
-</tr><tr><td>
-                Used Cooking Oil</td>
-<td>
-                $5/16L Container</td>
-</tr></tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" scope="col">
+        <h3>Pricing</h3>
+      </th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Weekly pickup of one (1) 48L green bin</td>
+      <td>$40/month</td>
+    </tr>
+    <tr>
+      <td>Twice Weekly pickup of one (1) 48L green bin</td>
+      <td>$70/month</td>
+    </tr>
+    <tr>
+      <td>Every 2 week pickup of one (1) 48L green bin</td>
+      <td>$25/month</td>
+    </tr>
+    <tr>
+      <td>Once every 4 week pickup of one (1) 48L green bin</td>
+      <td>$15/month</td>
+    </tr>
+    <tr>
+      <td>'Call-in' pickup - 1-48L green bin</td>
+      <td>$10 each</td>
+    </tr>
+    <tr>
+      <td>Styrofoam</td>
+      <td>$6/bag (35" x 50" or equivalent)</td>
+    </tr>
+    <tr>
+      <td>Soft Plastics</td>
+      <td>$6/bag (35" x 50" or equivalent)</td>
+    </tr>
+    <tr>
+      <td>Combination of Styrofoam &amp; Soft Plastics</td>
+      <td>$20/4 bags (35" x 50" or equivalent)</td>
+    </tr>
+    <tr>
+      <td>Cardboard &amp; Mixed Paper</td>
+      <td>$6/bag (35" x 50" or equivalent)</td>
+    </tr>
+    <tr>
+      <td>Foil-Lined Packaging</td>
+      <td>$6/bag (35" x 50" or equivalent)</td>
+    </tr>
+    <tr>
+      <td>Gable-top Milk Cartons</td>
+      <td>$6/bag (35" x 50" or equivalent)</td>
+    </tr>
+    <tr>
+      <td>Tetra-Packs</td>
+      <td>$6/bag (35" x 50" or equivalent)</td>
+    </tr>
+    <tr>
+      <td>Glass/Metal/Hard Plastics</td>
+      <td>$0.10/kg (Must be in bag or bucket)</td>
+    </tr>
+    <tr>
+      <td>Light Bulbs: CFL Tubes</td>
+      <td>$0.75 each</td>
+    </tr>
+    <tr>
+      <td>Light Bulbs: Fluorescent Tubes</td>
+      <td>$0.15/linear foot</td>
+    </tr>
+    <tr>
+      <td> Bicycle Tires</td>
+      <td>$0.75/tire (includes one tube per tire)</td>
+    </tr>
+    <tr>
+      <td>E-Waste/Small Appliances</td>
+      <td>$2.50/item</td>
+    </tr>
+    <tr>
+      <td>Used Cooking Oil</td>
+      <td>$5/16L Container</td>
+    </tr>
+  </tbody>
+</table>
 
 ## INVEST Downtown
 The DVBA has created a program for property owners to help support marketing of ground floor retail space.  INVEST Downtown provides a 50% grant to property owners and managers to apply attractive and informative infographic static cling decals to the inside of vacant space to add colour and appeal, but also to provide some compelling facts and figures about Victoria and our downtown, as well as specific details of the block or street on which a space is located.     
 
-<span class="needs-review">Please insert visual examples from the Promis Block and even the gumball one </span>
+<img src="/files/dvba_gumball.jpg" alt="The Gumball Dispensary" />

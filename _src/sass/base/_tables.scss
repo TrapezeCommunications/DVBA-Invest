@@ -2,9 +2,38 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%; 
+  
+  td,
+  th {
+    border: 1px solid lighten($black,40%);
+    padding: 0.5em;
+  }
+  
+  th {
+    background: $lt-blue;
+    h3 {
+      color: $white;
+      font-family: "bitter",serif;
+      font-weight: normal;
+      font-size: 1em;
+    }
+  }
+  
+  .subhead {
+    background: lighten($lt-blue,45%);
+  }
+  
+  .footer {
+    padding-bottom: 2em;
+  }
+  
+  p {
+    margin: 0;
+  }
 }
 
-table,
-td {
-  border: 1px solid $black;
+body .legend {
+  text-align: right;
+  font-size: 0.8em;
+  font-style: italic;
 }

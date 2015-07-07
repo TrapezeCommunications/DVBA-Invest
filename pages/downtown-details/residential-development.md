@@ -6,852 +6,863 @@ permalink: /downtown-details/residential-development/
 
 Downtown Victoria has enjoyed the confidence of major residential developers for more than ten years and our community has responded, creating increased demand for downtown residential living.  Provided below is a summary of all new downtown residential development since 2005 and a map which plots those developments within the DVBA boundaries.    
 
-## Downtown Residential Development Since 2005
+<img src="/files/downtown-residential-development.gif" alt="Residential Development Map" />
 
 <table cellpadding="0" cellspacing="0" style="width: 100%">
     <tbody>
         <tr>
-            <td colspan="4" >
-                <p align="center">
-                    <strong>RESIDENTIAL DEVELOPMENT SINCE 2005</strong>
-                </p>
-            </td>
+            <th colspan="4">
+                <h3 id="downtown-residential-development-since-2005">
+                    DOWNTOWN RESIDENTIAL DEVELOPMENT SINCE 2005
+                </h3>
+            </th>
         </tr>
         <tr>
-            <td >
-                <p align="center">
+            <td class="subhead">
+                <p>
                     <strong>Project</strong>
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td class="subhead">
+                <p>
                     <strong>Location</strong>
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td class="subhead">
+                <p>
                     <strong>Date</strong>
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td class="subhead">
+                <p>
                     <strong>Units</strong>
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Corazon
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     732 Cormorant Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2005
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     72 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Vogue
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     595 Pandora Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2005
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     30 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Astoria
                 </p>
             </td>
-            <td >
+            <td>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2006
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     164 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Belvedere
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     788 Humboldt Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2006
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     79 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Monaco
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     610 Johnson Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2007
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     18 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Juliet
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     780 Johnson Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2008
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     96 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Leiser
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     524-534 Yates Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     ~2008
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     32 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Renaissance
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     566 Yates Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2008
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     12 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Aria
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     737 Humboldt Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2009
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     174 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Falls
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     707 Courtney Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2009
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     155 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     SoMA
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     732 Broughton Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2009
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     10 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Hudson
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     1701 Douglas Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2010
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     152 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     601 Herald
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     601 Herald Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2011
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     27 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Morley Soda Factory
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     Waddington Alley
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2011
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     9 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     834 Johnson
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     834 Johnson Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2012
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     115 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Oriental Hotel
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     562 Yates Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2012
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     30 (C)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     The Sovereign
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     608 Broughton St
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2013
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     36 (c)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Union
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     532 Pandora
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2014
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     133 (c)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     New England
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     1312 Government St
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2014
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     22 (c)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Hudson Mews
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     780 Fisgard Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2014
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     120 (r)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
               &nbsp;
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Mountain West
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     Waddington Alley
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2015
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     6 (c)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     ERA
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     728 Yates Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2015
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     157 (c)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4" class="footer">
                 <p>
-                    <strong>Sub-total 1549</strong>
+                    <strong>Sub-total:</strong> 1549 Units
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
-                <p>
-                    Under Construction
-                </p>
-            </td>
+            <th colspan="4">
+                <h3>
+                    UNDER CONSTRUCTION
+                </h3>
+            </th>
         </tr>
         <tr>
-            <td >
+            <td class="subhead">
                 <p>
-                    Hoy Sun Ning Yung
-                </p>
-            </td>
-            <td >
-                <p>
-                    540 Pandora Street
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    under construction
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    32 (c)
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td >
-                <p>
-                    Victoria Rocket
-                </p>
-            </td>
-            <td >
-                <p>
-                    700-block Yates Street
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    under construction
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    93 (r)
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td >
-                <p>
-                    Janion Building
-                </p>
-            </td>
-            <td >
-                <p>
-                    Store Street
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    under construction
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    110 (c)
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td >
-                <p>
-                    Hudson Walk
-                </p>
-            </td>
-            <td >
-                <p>
-                    700-block Caledonia
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    under construction
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    170 (r)
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td >
-            </td>
-            <td >
-                <p>
-                    595 Pandora
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    under construction
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    51 (r)
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td >
-                <p>
-                    Escher*
-                </p>
-            </td>
-            <td >
-                <p>
-                    838 Broughton
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    under construction
-                </p>
-            </td>
-            <td >
-                <p align="center">
-                    84 (c)
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4" >
-                <p>
-                    <strong>Sub-total 540</strong>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4" >
-                <p>
-                    <strong>Total units already completed or under construction in 2015 2089 </strong>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4" >
-              &nbsp;
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4" >
-                <p align="center">
-                    <strong>PENDING DEVELOPMENTS</strong>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td >
-                <p align="center">
                     <strong>Project</strong>
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td class="subhead">
+                <p>
                     <strong>Location</strong>
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td class="subhead">
+                <p>
                     <strong>Date</strong>
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td class="subhead">
+                <p>
                     <strong>Units</strong>
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
+                <p>
+                    Hoy Sun Ning Yung
+                </p>
+            </td>
+            <td>
+                <p>
+                    540 Pandora Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    under construction
+                </p>
+            </td>
+            <td>
+                <p>
+                    32 (c)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Victoria Rocket
+                </p>
+            </td>
+            <td>
+                <p>
+                    700-block Yates Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    under construction
+                </p>
+            </td>
+            <td>
+                <p>
+                    93 (r)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Janion Building
+                </p>
+            </td>
+            <td>
+                <p>
+                    Store Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    under construction
+                </p>
+            </td>
+            <td>
+                <p>
+                    110 (c)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Hudson Walk
+                </p>
+            </td>
+            <td>
+                <p>
+                    700-block Caledonia
+                </p>
+            </td>
+            <td>
+                <p>
+                    under construction
+                </p>
+            </td>
+            <td>
+                <p>
+                    170 (r)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+                <p>
+                    595 Pandora
+                </p>
+            </td>
+            <td>
+                <p>
+                    under construction
+                </p>
+            </td>
+            <td>
+                <p>
+                    51 (r)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Escher*
+                </p>
+            </td>
+            <td>
+                <p>
+                    838 Broughton
+                </p>
+            </td>
+            <td>
+                <p>
+                    under construction
+                </p>
+            </td>
+            <td>
+                <p>
+                    84 (c)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" class="footer">
+                <p>
+                    <strong>Sub-total:</strong> 540 Units<br><strong>Total units already completed or under construction in 2015:</strong> 2089 Units
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <th colspan="4">
+                <h3>
+                    PENDING DEVELOPMENTS
+                </h3>
+            </th>
+        </tr>
+        <tr>
+            <td class="subhead">
+                <p>
+                    <strong>Project</strong>
+                </p>
+            </td>
+            <td class="subhead">
+                <p>
+                    <strong>Location</strong>
+                </p>
+            </td>
+            <td class="subhead">
+                <p>
+                    <strong>Date</strong>
+                </p>
+            </td>
+            <td class="subhead">
+                <p>
+                    <strong>Units</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <p>
                     Sawyer House*
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     840 Fort Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2015
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     59 (r)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Northern Junk
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     1200-block Wharf St
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2016
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     110-120 (c)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
                 <p>
                     Custom House
                 </p>
             </td>
-            <td >
+            <td>
                 <p>
                     816 Government St
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2016
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     105 (c)
                 </p>
             </td>
         </tr>
         <tr>
-            <td >
+            <td>
             </td>
-            <td >
+            <td>
                 <p>
                     960-62 Yates Street
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     2015
                 </p>
             </td>
-            <td >
-                <p align="center">
+            <td>
+                <p>
                     88 (c)
                 </p>
             </td>
         </tr>
         <tr>
-            <td colspan="4" >
+            <td colspan="4">
                 <p>
-                    <strong>Total pending projects 352-362</strong>
+                    <strong>Total pending projects:</strong> 352-362 Units
                 </p>
             </td>
         </tr>
     </tbody>
 </table>
+<p class="legend">(C) – Condominium, (R) – Rental </p>

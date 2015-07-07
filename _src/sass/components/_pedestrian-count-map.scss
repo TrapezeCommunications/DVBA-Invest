@@ -24,12 +24,24 @@
     border-radius: 50%;
     color: $white;
     display: inline-block;
-    font-size: 0.9em;
-    height: 50px;
+    font-size: 0.7em;
+    height: 1.5em;
     position: absolute;
     text-decoration: none;
-    width: 50px;
-    padding-top: 5px;
+    width: 1.5em;
+    line-height: 1.2;
+    @include breakpoint($medium) {
+      font-size: 0.8em;
+      width: 2em;
+      height: 2em;
+      line-height: 1.9;
+    }
+    @include breakpoint($large) {
+      font-size: 0.9em;
+      width: 2.5em;
+      height: 2.5em;
+      line-height: 2.3;
+    }
     &:hover {
       color: $blue;
       background: $white;

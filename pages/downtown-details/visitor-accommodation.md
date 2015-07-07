@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /downtown-details/hotel-accommodation/
+permalink: /downtown-details/visitor-accommodation/
 ---
-## Hotel Accommodation
+# Visitor Accommodation
 
 Please find below the location and number of hotel rooms for all hotels within the boundaries of the DVBA.
 
