@@ -4,7 +4,7 @@ permalink: /downtown-details/residential-development/
 ---
 # Residential Development
 
-Downtown Victoria has enjoyed the confidence of major residential developers for more than ten years and our community has responded, creating increased demand for downtown residential living.  Provided below is a summary of all new downtown residential development since 2005 and a map which plots those developments within the DVBA boundaries.    
+Downtown Victoria has enjoyed the confidence of major residential developers for more than ten years and our community has responded, creating increased demand for downtown residential living. Provided below is a map which plots all new residential developments within the DVBA boundaries since 2005 and below that an itemization of each of those developments, with the year constructed and the number of units in each.
 
 <img src="/files/downtown-residential-development.gif" alt="Residential Development Map" />
 
