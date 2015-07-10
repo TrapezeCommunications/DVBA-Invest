@@ -34,8 +34,17 @@
   h2 {
     color: $white; 
     font-family: "Bitter", "Helvetica Nueue", sans-serif;
-    font-size: 2.4em;
+    font-size: 1.8em;
     font-weight: 300;
     text-transform: initial;
+    margin-left: auto;
+    margin-right: auto;
+    @include breakpoint($medium) {
+      font-size: 2em;
+      max-width: 930px;
+    }
+    @include breakpoint($large) {
+      font-size: 2.4em;
+    }
   }
 }

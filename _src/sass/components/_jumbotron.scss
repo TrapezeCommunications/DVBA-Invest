@@ -27,6 +27,7 @@
   
   h1 {
     font-size: 4em;
+    line-height: 1;
     
     @include breakpoint($large) {
       font-size: 6em;
