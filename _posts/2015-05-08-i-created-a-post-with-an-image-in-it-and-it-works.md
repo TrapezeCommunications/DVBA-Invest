@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: "I created a post with an image in it, and it works!"
 ---
 
