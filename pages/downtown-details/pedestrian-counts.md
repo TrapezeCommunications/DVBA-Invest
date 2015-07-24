@@ -8,6 +8,8 @@ In November 2013, the DVBA was the first BIA in B.C. and the second in Canada to
 
 To access the data for a specific pedestrian counter, please click on the number illustrated on the map below.
 
+<a class="button" href="/files/dvba-pedestrian-counts.pdf" target="_blank">Printable map (PDF)</a>
+
 <div class="pedestrian-count-wrap"><div class="pedestrian-count-map">
   <a href="http://eco-public.com/public2/?id=100016262" title="Canada Post (700 Yates - South)" target="_blank" class="yates700">3</a>
   <a href="http://eco-public.com/public2/?id=100014631" title="Coastal Community (700 Fort - North)" target="_blank" class="fort700">2</a>

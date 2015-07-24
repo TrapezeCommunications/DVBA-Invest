@@ -15,7 +15,6 @@ markdown: kramdown
 # We need to exclude some of the extra build tools used to create the site.
 exclude: ['readme.md', 'node_modules', 'node-modules', 'gulpfile.js', 'package.json', 'Gemfile', 'Gemfile.lock', 'CNAME', 'scsslint.yml']
 
-
 prose: 
   siteurl: 'http://trapezecommunications.github.io/DVBA-Invest/'
   media: 'files'

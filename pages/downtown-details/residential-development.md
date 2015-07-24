@@ -4,7 +4,7 @@ permalink: /downtown-details/residential-development/
 ---
 # Residential Development
 
-Downtown Victoria has enjoyed the confidence of major residential developers for more than ten years and our community has responded, creating increased demand for downtown residential living. Provided below is a map which plots all new residential developments within the DVBA boundaries since 2005 and below that an itemization of each of those developments, with the year constructed and the number of units in each.
+Downtown Victoria has enjoyed the confidence of major residential developers for more than 10 years and our community has responded, creating increased demand for downtown residential living. Provided below is a map which plots all residential unions on each block within the DVBA's boundaries. A chart is also available below the map with itemization of each of the residential developments built since 2005 including the year constructed, number of units in each, and whether they are condominiums or rental units.
 
 <img src="/files/downtown-residential-development.gif" alt="Residential Development Map" />
 
@@ -30,7 +30,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td class="subhead">
                 <p>
-                    <strong>Date</strong>
+                    <strong>Completion Date</strong>
                 </p>
             </td>
             <td class="subhead">
@@ -436,7 +436,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    608 Broughton St
+                    608 Broughton Street
                 </p>
             </td>
             <td>
@@ -446,7 +446,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    36 (c)
+                    36 (C)
                 </p>
             </td>
         </tr>
@@ -463,7 +463,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    532 Pandora
+                    532 Pandora Avenue
                 </p>
             </td>
             <td>
@@ -473,7 +473,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    133 (c)
+                    133 (C)
                 </p>
             </td>
         </tr>
@@ -485,7 +485,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    1312 Government St
+                    1312 Government Street
                 </p>
             </td>
             <td>
@@ -495,7 +495,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    22 (c)
+                    22 (C)
                 </p>
             </td>
         </tr>
@@ -517,7 +517,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    120 (r)
+                    120 (R)
                 </p>
             </td>
         </tr>
@@ -544,7 +544,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    6 (c)
+                    6 (C)
                 </p>
             </td>
         </tr>
@@ -566,7 +566,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    157 (c)
+                    157 (C)
                 </p>
             </td>
         </tr>
@@ -597,7 +597,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td class="subhead">
                 <p>
-                    <strong>Date</strong>
+                    <strong>Completion Date</strong>
                 </p>
             </td>
             <td class="subhead">
@@ -624,7 +624,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    32 (c)
+                    32 (C)
                 </p>
             </td>
         </tr>
@@ -646,7 +646,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    93 (r)
+                    93 (R)
                 </p>
             </td>
         </tr>
@@ -668,7 +668,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    110 (c)
+                    110 (C)
                 </p>
             </td>
         </tr>
@@ -690,7 +690,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    170 (r)
+                    170 (R)
                 </p>
             </td>
         </tr>
@@ -709,36 +709,14 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    51 (r)
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
-                    Escher*
-                </p>
-            </td>
-            <td>
-                <p>
-                    838 Broughton
-                </p>
-            </td>
-            <td>
-                <p>
-                    under construction
-                </p>
-            </td>
-            <td>
-                <p>
-                    84 (c)
+                    51 (R)
                 </p>
             </td>
         </tr>
         <tr>
             <td colspan="4" class="footer">
                 <p>
-                    <strong>Sub-total:</strong> 540 Units<br><strong>Total units already completed or under construction in 2015:</strong> 2089 Units
+                    <strong>Sub-total:</strong> 424 Units<br><strong>Total units already completed or under construction in 2015:</strong> 2089 Units
                 </p>
             </td>
         </tr>
@@ -762,7 +740,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td class="subhead">
                 <p>
-                    <strong>Date</strong>
+                    <strong>Completion Date</strong>
                 </p>
             </td>
             <td class="subhead">
@@ -774,34 +752,12 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         <tr>
             <td>
                 <p>
-                    Sawyer House*
-                </p>
-            </td>
-            <td>
-                <p>
-                    840 Fort Street
-                </p>
-            </td>
-            <td>
-                <p>
-                    2015
-                </p>
-            </td>
-            <td>
-                <p>
-                    59 (r)
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
                     Northern Junk
                 </p>
             </td>
             <td>
                 <p>
-                    1200-block Wharf St
+                    1200-block Wharf Street
                 </p>
             </td>
             <td>
@@ -811,7 +767,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    110-120 (c)
+                    110-120 (C)
                 </p>
             </td>
         </tr>
@@ -823,7 +779,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    816 Government St
+                    816 Government Street
                 </p>
             </td>
             <td>
@@ -833,26 +789,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    105 (c)
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-            </td>
-            <td>
-                <p>
-                    960-62 Yates Street
-                </p>
-            </td>
-            <td>
-                <p>
-                    2015
-                </p>
-            </td>
-            <td>
-                <p>
-                    88 (c)
+                    105 (C)
                 </p>
             </td>
         </tr>
@@ -860,6 +797,123 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             <td colspan="4">
                 <p>
                     <strong>Total pending projects:</strong> 352-362 Units
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <th colspan="4">
+                <h3>
+                    --
+                </h3>
+            </th>
+        </tr>
+        <tr>
+            <td class="subhead">
+                <p>
+                    <strong>Project</strong>
+                </p>
+            </td>
+            <td class="subhead">
+                <p>
+                    <strong>Location</strong>
+                </p>
+            </td>
+            <td class="subhead">
+                <p>
+                    <strong>Completion Date</strong>
+                </p>
+            </td>
+            <td class="subhead">
+                <p>
+                    <strong>Units</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    819 Yates
+                </p>
+            </td>
+            <td>
+                <p>
+                    819 Yates Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2018
+                </p>
+            </td>
+            <td>
+                <p>
+                    209 (R)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Azzurro
+                </p>
+            </td>
+            <td>
+                <p>
+                    Blanchard &amp; Discovery
+                </p>
+            </td>
+            <td>
+                <p>
+                    2016
+                </p>
+            </td>
+            <td>
+                <p>
+                    65 (R)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    989 Johnson
+                </p>
+            </td>
+            <td>
+                <p>
+                    
+                </p>
+            </td>
+            <td>
+                <p>
+                    
+                </p>
+            </td>
+            <td>
+                <p>
+                    205
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    The Mondrian
+                </p>
+            </td>
+            <td>
+                <p>
+                    1090 Johnson
+                </p>
+            </td>
+            <td>
+                <p>
+                    
+                </p>
+            </td>
+            <td>
+                <p>
+                    93 (C)
                 </p>
             </td>
         </tr>

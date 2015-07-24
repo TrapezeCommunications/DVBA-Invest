@@ -6,7 +6,7 @@ permalink: /investment-opportunities/dvba-support-programs/
 
 As a business improvement association, the DVBA is working hard to create a positive environment for residents and visitors to enjoy every moment they are downtown and for investors to find our downtown as irresistible as do our visitors.  
 
-A number of programs have been created which we believe reinforces the appeal of our downtown.
+A number of programs have been created for local businesses to reinforce the appeal of our downtown.
 
 ## ILLUMINATE Downtown
 
@@ -18,9 +18,9 @@ While striving to enhance lighting levels, we will be working with BC Hydro to e
 
 ## Gull Grants
 
-<img src="http://www.downtownvictoria.ca/sites/default/files/1563_gull_grant_cardnew_umbrella.jpg" alt="Gull Shield" style="float:right;">A particularly memorable deluge of seagulls... and their corresponding droppings... during the spring and summer of 2011 led the DVBA to devise a program to work with property and business owners to help reduce the dramatic impact of nesting and young seagulls on our downtown. This grant continues to be offered, as one of the DVBA’s most popular programs, in an effort to outfit every property in the downtown core with seagull deterrents.
+<img src="http://www.downtownvictoria.ca/sites/default/files/1563_gull_grant_cardnew_umbrella.jpg" alt="Gull Shield" style="float:right;">A particularly memorable deluge of seagulls... and their corresponding droppings... during the spring and summer of 2011 led the DVBA to devise a program to work with property and business owners to help reduce the dramatic impact of nesting and young seagulls on our downtown. This grant continues to be offered, as one of the DVBA's most popular programs, in an effort to outfit every property in the downtown core with seagull deterrents.
 
-A grant of 50% of the cost of materials and hired labour, to a maximum of $350, is available to property owners who have installed any devices on the roof and roof lines of their downtown property that is designed to prevent the roosting or perching of seagulls. This grant program is only available to properties within the boundaries of the DVBA; however, we would be more than happy to share what we’ve learned about gull deterrents to any other interested property owners if you wish to give us a call!
+A grant of 50% of the cost of materials and hired labour, to a maximum of $350, is available to property owners who have installed any devices on the roof and roof lines of their downtown property that is designed to prevent the roosting or perching of seagulls. This grant program is only available to properties within the boundaries of the DVBA; however, we would be more than happy to share what we've learned about gull deterrents to any other interested property owners if you wish to give us a call!
 
 To be eligible for a grant, a property or event must be located within the boundaries of the Downtown Victoria Business Improvement Area (click here for DVBA boundary map) and complete an application form. Applications must be approved before work is carried out.  Please contact us for more information on the Gull Grant.
 
