@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /investment-opportunities/
+published: false
 ---
-<h1 class="page-heading">Investment Opportunities</h1>
-
-<span class="needs-review">Summary page for subpages?</span>
+# Investment Opportunities

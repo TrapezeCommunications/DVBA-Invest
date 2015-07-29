@@ -11,4 +11,4 @@ YELLOW indicates surface parking lots, both commercial and City of Victoria
 GREEN indicates commercial parkades (First Hour Free does not apply at these parkades)
 PURPLE indicates free lots for particular businesses only
 
-<span class="needs-review">City of Victoria Parking Map</span>
+<a href="http://downtownvictoria.ca/park" class="button">View the City of Victoria parking map</a>
