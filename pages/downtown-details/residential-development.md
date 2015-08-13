@@ -762,12 +762,12 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    2016
+                    2019
                 </p>
             </td>
             <td>
                 <p>
-                    110-120 (C)
+                    133 (C)
                 </p>
             </td>
         </tr>
@@ -881,7 +881,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    
+                    Pending
                 </p>
             </td>
             <td>
@@ -891,7 +891,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    205
+                    205 (C)
                 </p>
             </td>
         </tr>
@@ -908,7 +908,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    
+                    2013
                 </p>
             </td>
             <td>
