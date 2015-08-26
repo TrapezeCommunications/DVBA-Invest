@@ -17,7 +17,7 @@ He said support for the project has been “overwhelmingly positive,” and that
 
 “This morning I saw a woman and her child walking across the crosswalk, and as soon as they saw it they had smiles on their faces,” he said. “I think we can do more things like that here.”
 
-The president of Victoria Pride Society said it’s a sign that Canada and Victoria have come a long way in its acceptance of LGBTQ people.
+The president of [Victoria Pride Society](http://victoriapridesociety.org) said it’s a sign that Canada and Victoria have come a long way in its acceptance of LGBTQ people.
 
 “I grew up as a small kid in a small town,” he said. “The world is changing and evolving, and I think it’s getting to be a better place for everybody.”
 

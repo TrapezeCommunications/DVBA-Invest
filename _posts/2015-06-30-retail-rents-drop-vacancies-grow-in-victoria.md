@@ -17,7 +17,7 @@ Each of those measures was a marked increase over the previous six months, Colli
 
 But business leaders in Victoria are not panicking.
 
-Ken Kelly, general manager of the Downtown Victoria Business Association, said the results don’t necessarily reflect what’s happening in Victoria’s core.
+Ken Kelly, general manager of the [Downtown Victoria Business Association](http://downtownvictoria.ca), said the results don’t necessarily reflect what’s happening in Victoria’s core.
 
 “We are following a cycle. Remember everyone had their hair on fire earlier this year about downtown vacancies, particularly on Government Street. Well, we saw that street get more populated for the summer,” he said. Government Street vacancies went from 10 in February to as few as three as the summer started.
 
@@ -27,15 +27,15 @@ Kelly said the drop in retail rental rates is a positive and likely has resulted
 
 “Price plays a huge role,” he said. Vancouver has seen a number of its unique retailers having to move out of its downtown as a result of high lease rates. “What we have to ensure in our downtown is that we continue to provide affordable space and smaller, more manageable space.”
 
-Greater Victoria Chamber of Commerce chief executive Bruce Carter said the higher vacancy rate and lower lease rates may be less a reflection of economic health in Victoria and more a reaction to the North American economy.
+[Greater Victoria Chamber of Commerce](http://www.victoriachamber.ca) chief executive Bruce Carter said the higher vacancy rate and lower lease rates may be less a reflection of economic health in Victoria and more a reaction to the North American economy.
 
 “We have seen a large number of North American retailers (Target, Best Buy) exit the marketplace and, at the same time, we have built a lot of commercial space,” he said, with a nod to residential developers having included ground-level commercial space in many downtown residential and mixed-use projects.
 
 Like Kelly, Carter is optimistic for the city over the next year, noting the upper floors of those new projects are filling and that will, in turn, spur retailers to open on the ground floors.
 
-“Downtown has evolved into a real mixed-use environment,” said Randy Holt, vice-president with commercial real estate firm DTZ Victoria. “Generally speaking, and you see this often with shopping centres — think about the last thing that went into the Broadmead neighbourhood. It was the shopping centre. You sell the residences and the retail follows.
+“Downtown has evolved into a real mixed-use environment,” said Randy Holt, vice-president with commercial real estate firm [DTZ Victoria](http://www.dtzvictoria.com). “Generally speaking, and you see this often with shopping centres — think about the last thing that went into the Broadmead neighbourhood. It was the shopping centre. You sell the residences and the retail follows.
 
-“And I think that will hold true for all that ground-level retail space [in new developments like Concert Properties’ Era project and Hudson Walk being built near the Hudson]. It will not sit vacant forever.”
+“And I think that will hold true for all that ground-level retail space in new developments like Concert Properties’ Era project and Hudson Walk being built near the Hudson. It will not sit vacant forever.”
 
 Carter expects increased tourist traffic will spur activity.
 

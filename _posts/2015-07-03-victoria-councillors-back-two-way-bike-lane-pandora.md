@@ -20,7 +20,7 @@ Councillors voted unanimously in favour of the two-way lane at Thursday’s gove
 
 Public consultation on the bike lanes was divided.
 
-John Luton, former city councillor and past president of the Greater Victoria Cycling Coalition, said he’s frustrated that councillors seem to have favoured the less-costly option instead of the more logical one.
+John Luton, former city councillor and past president of the [Greater Victoria Cycling Coalition](http://gvcc.bc.ca), said he’s frustrated that councillors seem to have favoured the less-costly option instead of the more logical one.
 
 Luton doesn’t buy the argument that people will suddenly start using Pandora Avenue to travel east if their normal route is Johnson Street. “For people who imagine that this is going to draw a whole bunch of new trips travelling east by bike, that’s disconnected from the reality of how the road networks operate,” he said. “People aren’t going to travel up Pandora eastbound if their destination isn’t there.”
 

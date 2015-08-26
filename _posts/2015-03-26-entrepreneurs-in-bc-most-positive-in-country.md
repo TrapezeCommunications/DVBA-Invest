@@ -8,11 +8,11 @@ Business Barometer®
 
 Small business confidence at 70.4 in BC, almost 9 pts higher than national index
 
-BC – The results of the latest monthly Business Barometer survey from the **Canadian Federation of Independent Business (CFIB)** show British Columbia’s small businesses once again lead the country in optimism, with its Barometer index climbing back above 70 in March.  As a result, entrepreneurs in the province are now the most optimistic in the country about the future of the economy and the performance of their business.   
+BC – The results of the latest monthly Business Barometer survey from the Canadian Federation of Independent Business (CFIB) show British Columbia’s small businesses once again lead the country in optimism, with its Barometer index climbing back above 70 in March.  As a result, entrepreneurs in the province are now the most optimistic in the country about the future of the economy and the performance of their business.   
 
 To view the full report, please visit [http://cfib.ca/barometer](http://cfib.ca/barometer)
 
-“Overall, small business confidence levels in B.C. continue to remain steady and that’s obviously really good news. Last month was the first dip below 70 points since late 2013. But entrepreneurs still face some major challenges, such as tax and regulatory cost, and finding enough skilled workers”, states CFIB Vice President for BC and Alberta, **Richard Truscott**.
+“Overall, small business confidence levels in B.C. continue to remain steady and that’s obviously really good news. Last month was the first dip below 70 points since late 2013. But entrepreneurs still face some major challenges, such as tax and regulatory cost, and finding enough skilled workers”, states CFIB Vice President for BC and Alberta, Richard Truscott.
 
 When entrepreneurs were asked about their view of the general state of their business,it remained unchanged from February with 47 per cent of owners who said it was good versus only 7 per cent who said bad.
 

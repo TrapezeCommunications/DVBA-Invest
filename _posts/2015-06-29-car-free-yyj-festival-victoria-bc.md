@@ -7,7 +7,7 @@ published: true
 
 ![Car Free day YYJ](/files/car-free-day.jpg)
 
-Victoria, B.C. – Douglas Street will come alive on June 21 in ways that no one could have imagined. Downtown Victoria's largest street fair, Car Free YYJ, comes to Douglas Street on June 21 from 12-6pm. Hosted by the Downtown Victoria Business Association in partnership with the City of Victoria and BC Transit, six blocks of Douglas Street from Herald Street to Fort Street will be lined with more than 225 vendors (artisans, businesses, food vendors, and not-for-profits), a 7,000 square foot grassy park, three stages with live entertainment, a craft beer garden, a skate ramp, and more.
+Victoria, B.C. – Douglas Street will come alive on June 21 in ways that no one could have imagined. Downtown Victoria's largest street fair, Car Free YYJ, comes to Douglas Street on June 21 from 12-6pm. Hosted by the [Downtown Victoria Business Association](http://downtownvictoria.ca) in partnership with the [City of Victoria](http://www.victoria.ca) and [BC Transit](http://bctransit.com/victoria), six blocks of Douglas Street from Herald Street to Fort Street will be lined with more than 225 vendors (artisans, businesses, food vendors, and not-for-profits), a 7,000 square foot grassy park, three stages with live entertainment, a craft beer garden, a skate ramp, and more.
 
 "We have worked hard to ensure this inaugural event is one of a kind with the excellent support of Atomique Productions and Victoria Beer Week," says Fran Hobbis, Chair of the Downtown Victoria Business Association. "This event is groundbreaking for our city and for our downtown."
 

@@ -69,7 +69,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    595 Pandora Street
+                    595 Pandora Avenue
                 </p>
             </td>
             <td>
@@ -95,6 +95,9 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
                 </p>
             </td>
             <td>
+                <p>
+                    751 Fairfield Road
+                </p>
             </td>
             <td>
                 <p>
@@ -196,7 +199,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    ~2008
+                    2008
                 </p>
             </td>
             <td>
@@ -360,7 +363,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    Waddington Alley
+                    1350 Waddington Alley
                 </p>
             </td>
             <td>
@@ -529,12 +532,12 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         <tr>
             <td>
                 <p>
-                    Mountain West
+                    Waddington Alley Flats
                 </p>
             </td>
             <td>
                 <p>
-                    Waddington Alley
+                   1310 Waddington Alley
                 </p>
             </td>
             <td>
@@ -573,7 +576,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         <tr>
             <td colspan="4" class="footer">
                 <p>
-                    <strong>Sub-total:</strong> 1549 Units
+                    <strong>Sub-total:</strong> 1536 Units
                 </p>
             </td>
         </tr>
@@ -614,13 +617,10 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    540 Pandora Street
+                    540 Pandora Avenue
                 </p>
             </td>
             <td>
-                <p>
-                    under construction
-                </p>
             </td>
             <td>
                 <p>
@@ -631,7 +631,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         <tr>
             <td>
                 <p>
-                    Victoria Rocket
+                    Victoria Dominion Rocket
                 </p>
             </td>
             <td>
@@ -641,7 +641,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    under construction
+                    2015
                 </p>
             </td>
             <td>
@@ -658,12 +658,12 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    Store Street
+                    1612 Store Street
                 </p>
             </td>
             <td>
                 <p>
-                    under construction
+                    2016
                 </p>
             </td>
             <td>
@@ -680,17 +680,17 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    700-block Caledonia
+                    700-block Caledonia Avenue
                 </p>
             </td>
             <td>
                 <p>
-                    under construction
+                    2016
                 </p>
             </td>
             <td>
                 <p>
-                    170 (R)
+                    160 (R)
                 </p>
             </td>
         </tr>
@@ -699,13 +699,10 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    595 Pandora
+                    595 Pandora Avenue
                 </p>
             </td>
             <td>
-                <p>
-                    under construction
-                </p>
             </td>
             <td>
                 <p>
@@ -716,7 +713,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         <tr>
             <td colspan="4" class="footer">
                 <p>
-                    <strong>Sub-total:</strong> 424 Units<br><strong>Total units already completed or under construction in 2015:</strong> 2089 Units
+                    <strong>Sub-total:</strong> 446 Units<br><strong>Total units already completed or under construction in 2015:</strong> 1982 Units
                 </p>
             </td>
         </tr>
@@ -752,6 +749,50 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         <tr>
             <td>
                 <p>
+                    Custom House
+                </p>
+            </td>
+            <td>
+                <p>
+                    816 Government Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2016
+                </p>
+            </td>
+            <td>
+                <p>
+                    105 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Kunju Residences
+                </p>
+            </td>
+            <td>
+                <p>
+                    613 Herald Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017
+                </p>
+            </td>
+            <td>
+                <p>
+                    32 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
                     Northern Junk
                 </p>
             </td>
@@ -773,37 +814,78 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         </tr>
         <tr>
             <td>
+            </td>
+            <td>
                 <p>
-                    Custom House
+                    701 Belleville Street
                 </p>
             </td>
             <td>
                 <p>
-                    816 Government Street
+                    2019
                 </p>
             </td>
             <td>
                 <p>
-                    2016
+                    133 (R)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+              <p>
+                Hudson Place 1
+              </p>
+            </td>
+            <td>
+                <p>
+                    Blanshard/Herald
                 </p>
             </td>
             <td>
                 <p>
-                    105 (C)
+                    2019
+                </p>
+            </td>
+            <td>
+                <p>
+                    141 (R)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+              <p>
+                Hudson Place 2
+              </p>
+            </td>
+            <td>
+                <p>
+                    Blanshard/Herald
+                </p>
+            </td>
+            <td>
+                <p>
+                    2020
+                </p>
+            </td>
+            <td>
+                <p>
+                    209 (M/U)
                 </p>
             </td>
         </tr>
         <tr>
             <td colspan="4">
                 <p>
-                    <strong>Total pending projects:</strong> 352-362 Units
+                    <strong>Total pending projects:</strong> 753 Units
                 </p>
             </td>
         </tr>
         <tr>
             <th colspan="4">
                 <h3>
-                    --
+                    DOWNTOWN PROJECTS BEYOND DVBA BOUNDARIES
                 </h3>
             </th>
         </tr>
@@ -831,23 +913,127 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         </tr>
         <tr>
             <td>
+
+            </td>
+            <td>
                 <p>
-                    819 Yates
+                    860 View Street
                 </p>
             </td>
             <td>
                 <p>
-                    819 Yates Street
+                    2005
                 </p>
             </td>
             <td>
                 <p>
-                    2018
+                    61 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    The Wave
                 </p>
             </td>
             <td>
                 <p>
-                    209 (R)
+                    845 Yates Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2006
+                </p>
+            </td>
+            <td>
+                <p>
+                    101 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+            </td>
+            <td>
+                <p>
+                    1022 Fort Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2006
+                </p>
+            </td>
+            <td>
+                <p>
+                    21 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Cherry Bank
+                </p>
+            </td>
+            <td>
+                <p>
+                    828 Rupert Terrace
+                </p>
+            </td>
+            <td>
+                <p>
+                    2009
+                </p>
+            </td>
+            <td>
+                <p>
+                    51 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+            </td>
+            <td>
+                <p>
+                    834 Johnson Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2012
+                </p>
+            </td>
+            <td>
+                <p>
+                    112 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    The Mondrian
+                </p>
+            </td>
+            <td>
+                <p>
+                    1090 Johnson Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2013
+                </p>
+            </td>
+            <td>
+                <p>
+                    93 (C)
                 </p>
             </td>
         </tr>
@@ -859,7 +1045,7 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
             </td>
             <td>
                 <p>
-                    Blanchard &amp; Discovery
+                    1950 Blanshard Street
                 </p>
             </td>
             <td>
@@ -876,17 +1062,156 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         <tr>
             <td>
                 <p>
-                    989 Johnson
+                    Escher
                 </p>
             </td>
             <td>
                 <p>
-                    Pending
+                    838 Broughton Street
                 </p>
             </td>
             <td>
                 <p>
-                    
+                    2017 - under construction
+                </p>
+            </td>
+            <td>
+                <p>
+                    84 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Legato
+                </p>
+            </td>
+            <td>
+                <p>
+                    960 Yates Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017 - pending 
+                </p>
+            </td>
+            <td>
+                <p>
+                    88 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+                <p>
+                    840 Fort Street 
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017 - pending 
+                </p>
+            </td>
+            <td>
+                <p>
+                    59 (R)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Jukebox Lofts
+                </p>
+            </td>
+            <td>
+                <p>
+                    1000 View Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017 - pending 
+                </p>
+            </td>
+            <td>
+                <p>
+                    212 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+                <p>
+                    1075 Johnson Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017 - pending 
+                </p>
+            </td>
+            <td>
+                <p>
+                    138 (R)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+                <p>
+                    1088 Johnson Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    2017 - pending 
+                </p>
+            </td>
+            <td>
+                <p>
+                    37 (C)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+                <p>
+                    819 Yates Street 
+                </p>
+            </td>
+            <td>
+                <p>
+                    2018 
+                </p>
+            </td>
+            <td>
+                <p>
+                    209 (R)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+                <p>
+                    989 Johnson Street
+                </p>
+            </td>
+            <td>
+                <p>
+                    pending 
                 </p>
             </td>
             <td>
@@ -897,23 +1222,27 @@ Downtown Victoria has enjoyed the confidence of major residential developers for
         </tr>
         <tr>
             <td>
+            </td>
+            <td>
                 <p>
-                    The Mondrian
+                    1002 Pandora Avenue
                 </p>
             </td>
             <td>
                 <p>
-                    1090 Johnson
+                    pending 
                 </p>
             </td>
             <td>
                 <p>
-                    2013
+                    211 (C)
                 </p>
             </td>
-            <td>
+        </tr>
+        <tr>
+            <td colspan="4">
                 <p>
-                    93 (C)
+                    <strong>Total downtown projects beyond DVBA boundaries:</strong> 1696 Units
                 </p>
             </td>
         </tr>

@@ -9,7 +9,7 @@ published: true
 
 The vision, championed by the [Downtown Victoria Business Association](http://downtownvictoria.ca/), proposes “a more cohesive, tight-knit, grand avenue and to restore its prominence as the main street of our downtown.”
 
-“Douglas Street doesn’t give any sense of Victoria’s identity or create a sense of arrival,” says Gregory Damant of [Cascadia Architects](http://cascadiaarchitects.ca/). His firm developed the *Arriving at Douglas* report for the DVBA in consultation with City of Victoria staff, B.C. Transit and DVBA members.
+“Douglas Street doesn’t give any sense of Victoria’s identity or create a sense of arrival,” says Gregory Damant of [Cascadia Architects](http://cascadiaarchitects.ca/). His firm developed the *Arriving at Douglas* report for the DVBA in consultation with [City of Victoria](http://www.victoria.ca) staff, [B.C. Transit](http://bctransit.com/victoria) and DVBA members.
 
 “We ride on the strength of the Inner Harbour. That’s certainly a point of arrival, but a lot of people arrive in the city via Douglas Street as well,” says Damant.
 

@@ -10,7 +10,7 @@ Director Geoff Archer said Wednesday that the message from the university’s Er
 
 “What we are trying to do is engage with you in a way that is win-win for our students and for small-business owners in the Victoria area.”
 
-The centre has moved into Fort Tectoria, 777 Fort St., owned by the Victoria Advanced Technology Council. Fort Tectoria is a hothouse for innovation, serving as the base for Accelerate Victoria and the high-tech sector in the city’s core.
+The centre has moved into [Fort Tectoria](http://forttectoria.ca), 777 Fort St., owned by the Victoria Advanced Technology Council. Fort Tectoria is a hothouse for innovation, serving as the base for Accelerate Victoria and the high-tech sector in the city’s core.
 
 Set up in 2007 with a $1.6-million endowment, the Douglass centre’s mandate is to engage with the community in entrepreneurship. But there is “very little awareness” of its existence, Archer said.
 
@@ -30,6 +30,6 @@ One example of a creative Royal Roads entrepreneurship student is Canadian Olymp
 
 The venture sees youngsters work with athletes to create a helmet design. Canadian cyclist Monique Sullivan, now participating at the Pan American Games, is wearing a helmet designed in collaboration with Joel Jamieson, 16, who received a kidney transplant last year.
 
-Entrepreneurs seeking an appointment with Archer to look at ways they can be helped are invited to send an email to entrepreneurship@royalroads.ca.
+Entrepreneurs seeking an appointment with Archer to look at ways they can be helped are invited to send an email to [entrepreneurship@royalroads.ca](mailto:entrepreneurship@royalroads.ca).
 
 Source: <a href="http://www.timescolonist.com/business/royals-roads-to-help-entrepreneurs-at-downtown-victoria-office-1.2002424" target="_blank"> Times Colonist</a>

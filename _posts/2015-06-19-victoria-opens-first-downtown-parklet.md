@@ -7,15 +7,15 @@ published: true
 
 Victoria's first parklet opened last Friday as part of a pilot project to create more spaces for the public to enjoy while spending time downtown.
 
-The parklet, located in the 700-block of Fort Street just outside the Dutch Bakery, is a small urban oasis that was created by replacing several parallel parking stalls with a patio and seating open for the public.
+The parklet, located in the 700-block of Fort Street just outside the [Dutch Bakery](http://thedutchbakery.com), is a small urban oasis that was created by replacing several parallel parking stalls with a patio and seating open for the public.
 
-The project is a collaborative venture between the City of Victoria and the Fort Street Business Association after they received a $10,000 Building Healthy Communities grant from Coastal Community Credit Union.
+The project is a collaborative venture between the [City of Victoria](http://www.victoria.ca) and the [Fort Street Business Association](https://www.facebook.com/FabulousFort) after they received a $10,000 Building Healthy Communities grant from [Coastal Community Credit Union](https://www.cccu.ca).
 
 “We thought about different ideas that might be fun and we submitted about three and the parklet won the grant,” said Suzanne Bradbury, co-chair of the Fort Street Business Association, who will be responsible for the management of the space.
 
 “It's a placemaking initiative, it really is a collaborative venture and was constructed by a number of members in the business community.”
 
-The Downtown Victoria Business Association holds the insurance and is responsible for maintaining and cleaning the cedar parklet that is approximately the length of two parking stalls. City crews will water the plants.
+The [Downtown Victoria Business Association](http://downtownvictoria.ca) holds the insurance and is responsible for maintaining and cleaning the cedar parklet that is approximately the length of two parking stalls. City crews will water the plants.
 
 “It's wonderful to finally have this on the street,” said Teri Hustins, co-chair of the Fort Street Business Association. “I don't think the rendering does it justice, it wasn't until I saw it on the street that I realized how big it was and how much space there was for people.”
 

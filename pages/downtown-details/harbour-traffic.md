@@ -19,7 +19,7 @@ Victoria's Inner Harbour is a beautiful and bustling working harbour that serves
 Victoria also [welcomes cruise ships](http://victoriacuise.ca) with 229 ship calls carrying 513,000 passengers arriving in 2015 at Ogden Point just outside of the downtown core.
 
 The cruise industry makes up a large part of the tourism economy in Victoria. Ships begin docking at Ogden Point in April of each year and the cruise season continues until early October. Last year, the cruise industry was a strong year bringing millions into Victoria and 2015 includes more and longer port visits.  
-[Strong 2014 cruise season a sign of economic vitality](http://gvha.v3.ca/uploaded/release_lastship2014.pdf)
+[Strong 2014 cruise season a sign of economic vitality](http://www.gvha.ca/sites/default/files/pdfs/media/release_lastship2014.pdf)
 
 To view the 2015 Victoria cruise ship schedule, please click below.  
 [2015 Cruise Ship Schedule](http://downtownvictoria.ca/sites/default/files/2015_cruise_schedule.pdf)
@@ -30,4 +30,4 @@ Cruise passengers arrive to Victoria at different times depending on the cruise 
 To take a look at the total projected passengers compared to estimated arrival times for May through September please click below.  In 2015, the majority of ships will be arriving during evening hours.  
 [2013 - 2015 Cruise Ship Arrival Times](http://downtownvictoria.ca/sites/default/files/comparative_cruise_arrival_times_2013_to_2015.pdf)  
 [2013 - 2015 Projected Cruise Ship Monthly Passengers Chart](http://downtownvictoria.ca/sites/default/files/monthly_cruise_arrivals_2013_-_2015.pdf)  
-[Cruise Economic Impact Facts and Stats 2013 via GVHA](http://gvha.v3.ca/uploaded/cruise%20economic%20impact%20facts%20and%20stats%202013.pdf)  
+[Cruise Economic Impact Facts and Stats 2013 via GVHA](http://www.gvha.ca/sites/default/files/pdfs/publications/cruise_economic_impact_facts_and_stats_2013.pdf)  

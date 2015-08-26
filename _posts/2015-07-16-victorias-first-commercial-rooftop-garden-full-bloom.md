@@ -6,7 +6,7 @@ published: true
 ---
 An Oak Bay resident is hoping to increase the amount of locally-produced food through a new pilot project that's proving the sky is the limit.
 
-Chris Hildreth, a recent UVic grad who studied environmental studies and sociology, recently launched Topsoil, one of the first urban commercial rooftop gardens on 1001 Blanshard St. On the roof he grows fresh produce that is then delivered to Fiamo Italian Kitchen to use in their dishes.
+Chris Hildreth, a recent UVic grad who studied environmental studies and sociology, recently launched Topsoil, one of the first urban commercial rooftop gardens on 1001 Blanshard St. On the roof he grows fresh produce that is then delivered to [Fiamo Italian Kitchen](http://fiamo.ca) to use in their dishes.
 
 “I wanted to provide restaurants with the highest quality of fresh local produce as possible, but in a quantity that they can really be using on a consistent basis, not just a couple of sprigs of basil on their salad,” said Hildreth, who came up with the idea in a food and society class.
 

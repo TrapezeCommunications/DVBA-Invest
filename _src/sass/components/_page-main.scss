@@ -3,7 +3,7 @@ main {
   background-position: center bottom;
   background-repeat: repeat-x;
   padding-bottom: 245px; 
-  text-align: center;
+  //text-align: center;
 
   @include breakpoint($medium) {
     padding: 0 $gridpad/4 245px;
