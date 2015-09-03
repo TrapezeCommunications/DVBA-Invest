@@ -8,6 +8,10 @@ main {
   @include breakpoint($medium) {
     padding: 0 $gridpad/4 245px;
   }
+
+  @include breakpoint($large) {
+    padding: 0;
+  }
   
   .contained {
     background: $white; 
