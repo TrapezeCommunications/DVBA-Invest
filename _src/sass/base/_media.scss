@@ -1,3 +1,5 @@
+//scss-lint:disable QualifyingElement, ImportantRule
+
 img { max-width: 100%; }
 
 img[style*="float:right"],
@@ -8,4 +10,22 @@ img[style*="float: right"] {
 img[style*="float:left"],
 img[style*="float: left"] {
   margin: 0 1em 1em 0;
+}
+
+// On small widths, images floated to left/right don't work great for surrounding text.
+@include breakpoint(max-width 700px) {
+  img[style*="float"] {
+    display: block;
+    float: initial !important;
+    margin: 1em auto;
+  }
+}
+
+iframe {
+  outline: none;
+  border: none;
+}
+
+a img {
+  border: 0;
 }

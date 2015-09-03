@@ -2,6 +2,8 @@
 http://flickity.metafizzy.co
 ---------------------------------------------- */
 
+@import "compass";
+
 // scss-lint:disable all
 .flickity-enabled {
   position: relative;
@@ -112,38 +114,29 @@ http://flickity.metafizzy.co
 /* ---- page dots ---- */
 
 .flickity-page-dots {
-  position: absolute;
-  width: 100%;
-  bottom: -25px;
   padding: 0;
-  margin: 0;
-  list-style: none;
-  text-align: center;
-  line-height: 1;
 }
 
 .flickity-rtl .flickity-page-dots { direction: rtl; }
 
 .flickity-page-dots .dot {
+  @include border-radius(10px);
   display: inline-block;
-  width: 10px;
-  height: 10px;
+  width: 25%;
+  height: 0.5em;
   margin: 0 8px;
-  background: #333;
-  border-radius: 50%;
-  filter: alpha(opacity=25); /* IE8 */
-  opacity: 0.25;
+  background: $yellow;
   cursor: pointer;
+  max-width: 75px;
 }
 
 .flickity-page-dots .dot.is-selected {
-  filter: alpha(opacity=100); /* IE8 */
-  opacity: 1;
+  background: $white;
 }
 
-// scss-lint:enable all 
 
 /*---------------------------------------------------------*/
+// Theme specific overrides...
 
 .news-post {
   width: 100%;
@@ -153,13 +146,4 @@ http://flickity.metafizzy.co
   @include clearfix;
 }
 
-.flickity-page-dots .dot {
-  border-radius: 0;
-  width: 4em;
-  height: 0.5em;
-  background-color: rgba($yellow, 0.5);
-
-  &.is-selected {
-    color: $yellow;
-  }
-}
+// scss-lint:enable all 

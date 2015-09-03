@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Find out how to invest in Downtown Victoria and get more information about why it's the right business move.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://investinvictoria.com" # the base hostname & protocol for your site
-siteemail: kenkelly@downtownvictoria.ca
+siteemail: ken@downtownvictoria.ca
 twitter_username: myDVBA
 # github_username:  jekyll
 
@@ -14,7 +14,6 @@ markdown: kramdown
 
 # We need to exclude some of the extra build tools used to create the site.
 exclude: ['readme.md', 'node_modules', 'node-modules', 'gulpfile.js', 'package.json', 'Gemfile', 'Gemfile.lock', 'CNAME', 'scsslint.yml']
-
 
 prose: 
   siteurl: 'http://trapezecommunications.github.io/DVBA-Invest/'

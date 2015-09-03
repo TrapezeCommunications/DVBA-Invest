@@ -1,9 +1,15 @@
 .button {
-  background-color: $yellow;
-  border-radius: 2em;
+  @include border-radius(2em);
+  @include transition(all 0.3s ease);
+  background: $yellow;
   color: $white;
-  font-family: sans-serif;
+  font-family: montserrat, "Helvetica Nueue", sans-serif;
+  font-size: 0.8em;
   padding: 1em 4em;
   text-decoration: none;
   text-transform: uppercase;
+  
+  &:hover {
+    background: $orange;
+  }
 }

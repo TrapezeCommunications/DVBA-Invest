@@ -1,6 +1,6 @@
 .news {
-  border-bottom: 2px solid $lt-blue;
-  border-top: 2px solid $lt-blue;
+  border-bottom: 3px solid $lt-blue;
+  border-top: 3px solid $lt-blue;
   color: $white; 
   text-align: center; 
   
@@ -14,9 +14,14 @@
     @include breakpoint($medium) {
       padding: 0 $gridpad/2 $gridpad;
     }
+    
     @include breakpoint($large) {
       padding: 0 $gridpad $gridpad;
     }
+  }
+  
+  p a {
+    color: $yellow;
   }
 
   h1 {
@@ -32,9 +37,13 @@
 
   h2 {
     color: $white; 
-    font-family: "Bitter";
-    font-size: 2.4em;
+    font-size: 2em;
     font-weight: 300;
-    text-transform: initial;
+    margin-left: auto;
+    margin-right: auto;
+    @include breakpoint($medium) {
+      font-size: 2.5em;
+      max-width: 750px;
+    }
   }
 }

@@ -62,3 +62,11 @@ Dev:
 
 Production:
 <!-- * gulp-rev for some simple cache busting -->
+
+
+
+*****
+
+Some todos to consider (optimization, etc) --
+- Remove JQuery in favour of static html.
+- 

@@ -1,9 +1,7 @@
 ---
 layout: default
 permalink: /downtown-details/
+published: false
 ---
-
-<h1 class="page-heading">Downtown Details</h1>
-
-<span class="needs-review">Summary page for subpages?</span>
+# Downtown Details
 

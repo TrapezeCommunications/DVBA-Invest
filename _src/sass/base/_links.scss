@@ -1,3 +1,15 @@
 a {
+  @include transition(all 0.3s ease);
   color: inherit; 
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+p a {
+  color: $blue;
+  
+  &:hover {
+    color: $lt-blue;
+  }
 }

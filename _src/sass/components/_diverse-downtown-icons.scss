@@ -1,30 +1,92 @@
 .section-nav {
-  @include clearfix; 
-  font-family: "Franchise Bold";
+  @include clearfix;
+  background-position: top left;
+  background-repeat: no-repeat;
+  font-family: "franchiseregular", "Helvetica Nueue", sans-serif;
   line-height: 1;
+  text-transform: uppercase;
+  
+  @include breakpoint($large) {
+    background-image: img-url("yellow-arrow.png");
+  }
+  
+  h1 {
+    font-size: 3em;
+    line-height: 0.9;
+    margin: 1em auto 0.5em;
+    
+    @include breakpoint($small) {
+      font-size: 3em;
+    }
+    
+    @include breakpoint($medium) {
+      max-width: 700px;
+    }
+    
+    @include breakpoint($large) {
+      font-size: 4em;
+      line-height: 0.9;
+      margin: 1em 0.5em 0.5em 2.5em;
+      max-width: none;
+    }
+  }
 
   a { 
-    text-decoration: none;  
+    @include transition(all, 0.3s);
     display: block;
-    line-height: 62px; 
+    font-size: 1.3em;
+    line-height: 60px;
+    text-decoration: none;
+    
+    @include breakpoint($small) {
+      font-size: 1.6em;
+    }
+    
+    @include breakpoint($medium) {
+      display: inline-block;
+      line-height: 1;
+      min-width: 220px;
+      padding: 1em;
+      width: 29%;
+
+      &:not(:last-child) {
+        border-right: 2px dotted $yellow;
+      }
+    }
+    
+    @include breakpoint($large) {
+      min-width: 205px;
+      width: 19%;
+    }
+    
+    &:hover {
+      opacity: 0.8;
+    }
   }
 
   a::before {
     $iconsize: 36px;
-    height: $iconsize;
-    width: $iconsize;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
     content: "";
     display: inline-block;
-    vertical-align: middle;
+    height: $iconsize;
     margin-right: 1em;
-
+    position: relative;
+    top: -5px;
+    vertical-align: middle;
+    width: $iconsize;
+    
+    @include breakpoint($medium) {
+      $iconsize: 100px;
+      display: block;
+      height: $iconsize;
+      margin: 0 auto 1em;
+      width: $iconsize;
+    }
   }
-
-
-
+  
   .workforce {
     color: $orange;
     
@@ -34,7 +96,7 @@
   }
 
   .pedestrian {
-    color: $yellow;
+    color: $red;
 
     &::before {
       background-image: img-url("svg/pedestrian-icon.svg");
@@ -42,7 +104,7 @@
   }
 
   .residential {
-    color: $purple;
+    color: $teal;
 
     &::before {
       background-image: img-url("svg/residential-icon.svg");
@@ -50,7 +112,7 @@
   }
 
   .visitor {
-    color: $blue;
+    color: $green;
 
     &::before {
       background-image: img-url("svg/visitor-icon.svg");
@@ -58,33 +120,10 @@
   }
 
   .parking {
-    color: $red;
+    color: $yellow;
 
     &::before {
       background-image: img-url("svg/parking-icon.svg");
-    }
-  }
-
-  @include breakpoint($medium) {
-    a { 
-      line-height: 1;
-      display: inline-block; 
-      float: left; 
-      font-size: 1.6em;
-      padding: 1em;
-      width: 20%;
-
-      &:not(:last-child) {
-        border-right: 2px dotted $yellow; 
-      }
-
-      &::before {
-        $iconsize: 100px;
-        margin: 0 auto 1em;
-        height: $iconsize;
-        width: $iconsize;
-        display: block;
-      }
     }
   }
 

@@ -1,52 +1,41 @@
-#primary-nav {
-
-
-  //scss-lint:disable DeclarationOrder
-  @include breakpoint($medium) {
-
-
-
-    .menu {
-      display: flex; 
-      position: relative;
-      top: 0;
-        
-      > li { 
-        display: inline-block;
-        flex: 1 1 auto;
-
-        &:not(:last-child) {
-          border-right: 2px solid $yellow; 
-        }
-      }
-    }
-  }
-}
-
-
 /*---------------------------------------------------------*/
 // Primary Navigation Structure - Mobile First
 
+//scss-lint:disable SelectorDepth, IdSelector
+// I used an ID to simplify coding the menu with only javascript (easier to act on)
+// and the selector depth is necessary as is... 
+
+// but hey, if you want to optimize this...
+
+@import "compass";
+
 #primary-nav {
+  @include border-radius(0.5em 0.5em 0 0);
   background-color: $white;
-  border-radius: 0.5em 0.5em 0 0;
-  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 0.9em;
   line-height: 1.25;
-  padding-top: 0.5em;
   text-align: center;
   text-transform: uppercase;
-  width: 100%; 
   z-index: 1;
 
+  @include breakpoint(max-width $medium) {    
+    &.activated .menu { display: block; }
+  }
+
   .menu-icon {
+    color: $white;
     display: block;
     height: 100px;
     line-height: 100px;
     position: absolute;
     right: 1em;
-    top: 0;
+    top: -20px;
     width: 45px;
+    
+    path:hover {
+      color: $yellow;
+    }
   }
 
   h1 { display: none; }
@@ -55,67 +44,152 @@
     margin: 0; 
     padding: 0;
   }
-  li { 
-    position: relative;
-    padding: 1em 0.5em;
-    cursor: pointer;
-  }
 
+  li { 
+    cursor: pointer;
+    list-style: none;
+    position: relative;
+    padding: 0.5em;
+
+    @include breakpoint($medium) {
+      padding: 1.5em 0.5em;
+    }
+  }
+  
+  li,
   a {
-    color: inherit;
+    @include transition(all 0.3s ease);
+    color: lighten($black, 20%);
+    
+    &:hover {
+      color: $lt-blue;
+    }
+  }
+  
+  a {
     padding: 0.5em;
     text-align: center;
     text-decoration: none;
-
   }
-  
-  .menu { display: none; }
 
   .menu {
+    background: $white;
     display: none;
-    background-color: rgba($white, 0.9);
-    left: 0; 
-    padding: 0 0 0.5em;
+    left: 0;
     position: absolute;
     right: 0;
-    top: 100px;
+    top: 3.5em;
     z-index: 1;
+    padding: 1em 0;
+    
+    @include breakpoint(450px) {
+      top: 4em;
+    }
+    
+    @include breakpoint(600px) {
+      top: 4.5em;
+    }
+    
+    @include breakpoint(675px) {
+      top: 5em;
+    }
+    
+    @include breakpoint($medium) {
+      background: none;
+      padding: 0;
+    }
 
     ul {
-      display: none;
+      display: none; 
+
+      a {
+        border-bottom: 2px dotted $yellow;
+        display: block;
+        padding: 0 0 1em;
+      }
+
+      li {
+        padding: 1em 1em 0;
+        text-transform: none;
+      }
+
+      li:last-child a {
+        border-bottom: 0;
+      }
     }
+  }
+
+  .icon-down {
+    @include transition(transform, 0.3s);
+    display: inline-block;
+    font-family: "icomoon";
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    margin: 0 0 0 0.5em;
+    speak: none;
+    text-transform: none;
+  }
+  
+  .icon-downchevron-small-down:before {
+    content: "\e601";
   }
 
   .activated {
-    ul,li {
+    ul,
+    li {
       display: block;
       position: relative;
     }
-    li {}
   }
-
-  @include breakpoint(max-width $medium) {
-    &.activated .menu { display: block; }
+  li:first-child {
+    @include border-radius(0.5em 0 0 0);
+  }
+  li:last-child {
+    @include border-radius(0 0.5em 0 0);
   }
 
   /*---------------------------------------------------------*/
   // Larger Screens
 
   @include breakpoint($medium) {
+
     .menu {
+      display: flex;
       position: relative;
       top: 0;
-      display: flex;
 
       ul {
-        position: absolute;
-        background-color: $white;
-        position: absolute;
-        top: 100%;
+        @include border-radius(0 0 0.5em 0.5em);
+        @include box-shadow(0 10px 13px rgba($black, 0.3));
+        background: $white;
         left: 0;
-        right: 0;
+        min-width: 13em;
         overflow: hidden;
-        box-shadow: 0px 10px 13px rgba($black, 0.3);
+        position: absolute;
+        right: 0;
+        top: 100%;
+      }
+
+      > li { 
+        display: inline-block;
+        flex: 1 1 auto;
+
+        &:not(:last-child) {
+          border-right: 2px solid $yellow; 
+        }
+      }
+      
+      .activated {
+        background: $yellow;
+        color: $white;
+        
+        .icon-down {
+          @include transform(rotate(180deg));
+        }
       }
     }
 
@@ -125,46 +199,3 @@
   }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

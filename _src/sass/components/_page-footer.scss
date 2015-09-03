@@ -17,5 +17,82 @@ footer {
       float: right; 
     }
   }
+  
+  .first {
+    .contained {
+      padding: 2em;
+      
+      @include breakpoint($large) {
+        padding: 5.5em 0 0;
+        background-image: img-url("blue-arrow.png");
+        background-repeat: no-repeat;
+        background-position: right top;
+      }
+    }
+  
+    p {
+    
+      @include breakpoint($medium) {
+        font-size: 1.3em;
+        font-weight: 100;
+      }
+    
+      @include breakpoint($large) {
+        font-size: 1.5em;
+        margin: auto auto 1em;
+        max-width: 860px;
+      }
+    }
+    
+    h2 {
+      color: $yellow;
+    
+      @include breakpoint($large) {
+        border-left: 2px solid $yellow;
+        display: inline-block;
+        line-height: 2;
+        margin-left: 1em;
+        padding-left: 1em;
+        position: relative;
+        top: 10px;
+      }
+    }
+    
+    a {
+      display: inline-block;
+      
+      &:hover {
+        color: $orange;
+      }
+      
+      &.button:hover {
+        color: $white;
+      }
+    }
+  }
+  
+  h1 {
+  
+    @include breakpoint($large) {
+      margin-top: 0;
+    }
+  }
 }
 
+
+
+.closing-credits {
+  p {
+    margin: 0;
+    padding: 2em;
+    color: lighten($black,20%);
+    font-size: 0.9em;
+  }
+  a {
+    color: $yellow;
+    
+    &:hover { color: $orange; }
+  }
+
+  img { margin-left: 2em; }
+}

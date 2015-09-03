@@ -12,13 +12,6 @@
 */
 
 @font-face {
-  font-family: "Bitter";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Bitter-Regular"), url("../fonts/Bitter-Regular") format("otf");
-}
-
-@font-face {
   font-family: "Franchise Bold";
   font-style: normal;
   font-weight: normal;
@@ -37,11 +30,26 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "icomoon";
+  src: url("../fonts/icomoon/icomoon.eot");
+}
+@font-face {
+  font-family: "icomoon";
+  src: url(data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg8SAXQAAAC8AAAAYGNtYXAaVcyJAAABHAAAAFRnYXNwAAAAEAAAAXAAAAAIZ2x5ZvNmGygAAAF4AAAAmGhlYWQE1kF1AAACEAAAADZoaGVhBigDxgAAAkgAAAAkaG10eAiSACwAAAJsAAAAFGxvY2EAKABgAAACgAAAAAxtYXhwAAcAHQAAAowAAAAgbmFtZZlKCfsAAAKsAAABhnBvc3QAAwAAAAAENAAAACAAAwJJAZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAABAAADmAQPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAOAAAAAoACAACAAIAAQAg5gH//f//AAAAAAAg5gH//f//AAH/4xoDAAMAAQAAAAAAAAAAAAAAAQAB//8ADwABAAAAAAAAAAAAAgAANzkBAAAAAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAABACwA9QJmAkIAGgAAARQHAQYjIicBJjU0PwE2MzIfATc2MzIfARYVAmYF/vUFCAcG/vYGBhwGBwgG4OEFCAcGHQUCEgcG/vYGBgEKBgcIBR0GBuHhBgYdBQgAAAEAAAABAACqgax/Xw889QALBAAAAAAA0aj/GwAAAADRqP8bAAAAAAJmAkIAAAAIAAIAAAAAAAAAAQAAA8D/wAAABAAAAAAAAmYAAQAAAAAAAAAAAAAAAAAAAAUEAAAAAAAAAAAAAAACAAAAApIALAAAAAAACgAUAB4ATAABAAAABQAbAAEAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAADgCuAAEAAAAAAAEABwAAAAEAAAAAAAIABwBgAAEAAAAAAAMABwA2AAEAAAAAAAQABwB1AAEAAAAAAAUACwAVAAEAAAAAAAYABwBLAAEAAAAAAAoAGgCKAAMAAQQJAAEADgAHAAMAAQQJAAIADgBnAAMAAQQJAAMADgA9AAMAAQQJAAQADgB8AAMAAQQJAAUAFgAgAAMAAQQJAAYADgBSAAMAAQQJAAoANACkaWNvbW9vbgBpAGMAbwBtAG8AbwBuVmVyc2lvbiAxLjAAVgBlAHIAcwBpAG8AbgAgADEALgAwaWNvbW9vbgBpAGMAbwBtAG8AbwBuaWNvbW9vbgBpAGMAbwBtAG8AbwBuUmVndWxhcgBSAGUAZwB1AGwAYQByaWNvbW9vbgBpAGMAbwBtAG8AbwBuRm9udCBnZW5lcmF0ZWQgYnkgSWNvTW9vbi4ARgBvAG4AdAAgAGcAZQBuAGUAcgBhAHQAZQBkACAAYgB5ACAASQBjAG8ATQBvAG8AbgAuAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   color: $black;
-  font-family: "Bitter", serif;
-  font-size: 1.25em;
-  line-height: 2;
+  font-family: "Muli", sans-serif;
+  font-size: 1.1em;
+  line-height: 1.7;
+  
+  @include breakpoint($medium) {
+    font-size: 1.25em;
+  }
 }
 
 h1,
@@ -52,18 +60,30 @@ h5,
 h6 {
   color: $lt-blue;
   font-family: "franchiseregular";
-  text-transform: uppercase;
+  font-weight: normal;
   text-align: center;
+  text-transform: uppercase;
+  line-height: 1.3;
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 h1 { 
-  font-size: 3.8rem; 
-  line-height: 0.8;
+  font-size: 3.5rem; 
+  line-height: 1;
+  
+  @include breakpoint($medium) {
+    font-size: 4.8rem; 
+  }
 }
 
 h2 {
   font-size: 2.8rem; 
-  line-height: 0.8;
+  line-height: 1;
 }
 
 h3, 
@@ -71,7 +91,14 @@ h4,
 h5, 
 h6 {
   font-size: 1.8rem; 
-  line-height: 0.8;
+}
+
+blockquote {
+  @include border-radius(10px);
+  background: lighten($blue,50%);
+  margin: 0;
+  padding: 2em;
+  font-size: 1.2em;
 }
 
 .needs-review {

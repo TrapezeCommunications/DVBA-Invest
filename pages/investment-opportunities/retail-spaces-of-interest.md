@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /investment-opportunities/retail-spaces-of-interest/
+published: false
 ---
 # Retail Spaces of Interest
-
-<span class="needs-review">to be provided</span>
