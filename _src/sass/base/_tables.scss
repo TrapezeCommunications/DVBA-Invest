@@ -22,7 +22,7 @@ table.rwd-table {
       content: attr(data-th)": "; // who knew you could do this? The internet, that's who.
       font-weight: bold;
       width: 100%;
-      display: inline-block;
+      display: inline;
       color: $lt-blue;
       
       @include breakpoint(min-width $small) { 
@@ -96,6 +96,7 @@ table.rwd-table {
   
   p {
     margin: 0;
+    display: inline;
   }
 }
 
